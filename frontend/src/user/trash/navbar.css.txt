@@ -1,0 +1,47 @@
+.nav {
+    display: flex;
+    justify-content: center; /* Center the buttons horizontally */
+    align-items: center;
+    background-color: #026a9a;
+    margin: 10px 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.nav ul li button {
+    margin-right: 25px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+    background-color: #9cd2eb;
+    color: #000;
+    
+}
+
+.nav ul li:last-child button {
+    margin-right: 0;
+}
+
+.nav ul li button:hover {
+    background-color: #09a9f4;
+    color: white;
+    cursor: pointer;
+}
+<nav className='nav'>
+                <ul>
+                    <li><button onClick={() => navigate('/userHome/searchJobs')}>Search Jobs</button></li>
+                    <li><button onClick={() => navigate('/userHome/myApplications')}>My Applications</button></li>
+                    <li><button onClick={() => navigate('/userHome/resume')}>Resume</button></li>
+                    <li><button onClick={() => navigate('/userHome/profile')}>Profile</button></li>
+                    <li><button onClick={logoutBtnClick}>Logout</button></li>
+                    {/* <li><button onClick={() => navigate('/userHome/logout')}>Logout</button></li> */}
+                </ul>
+            </nav>

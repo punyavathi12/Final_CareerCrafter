@@ -1,0 +1,165 @@
+/* Styles for Jobs component */
+.jobs-dd {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px; /* Add gap for spacing between elements */
+  padding: 20px; /* Add padding for overall spacing */
+  border: 1px solid #ddd; /* Add border around the job section */
+  border-radius: 8px; /* Add border radius for rounded corners */
+  background-color: #f9f9f9; /* Light background color for contrast */
+}
+
+.job-cards-container-dd {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  width: 100%;
+}
+
+.job-card-dd {
+  background: #8fd7d0;
+  border: 1px solid #ddd; /* Add border to job cards */
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin: 16px;
+  padding: 20px;
+  width: 320px; /* Increased width for better content fit */
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transition for hover effect */
+}
+
+.job-card-dd:hover {
+  transform: translateY(-4px); /* Add slight elevation on hover */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Increase shadow on hover */
+}
+
+.color-box-dd {
+  background-color: #f8f9fa;
+  border: 1px solid #ddd; /* Add border to color box */
+  border-radius: 4px;
+  padding: 4px 8px;
+  display: inline-block;
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
+
+.hiring-text-dd {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.job-details-dd {
+  margin-top: 32px;
+}
+
+.job-details-dd h2 {
+  margin: 0 0 8px;
+  font-size: 20px; /* Increase font size for heading */
+  color: #9b5555; /* Change text color for better readability */
+}
+
+.qualification-industry-dd {
+  margin-bottom: 8px;
+}
+
+.qualification-dd,
+.industry-dd,
+.company-dd {
+  border: 1px solid #e25f5f; /* Add a border */
+  border-radius: 8px; /* Add border radius for rounded corners */
+  padding: 10px; /* Add padding for spacing */
+  margin-bottom: 8px; /* Add margin between spans */
+  display: inline-block; /* Make elements inline-block */
+  background-color: #f9f9f9; /* Add background color for better contrast */
+}
+
+.salary-dd {
+  margin-bottom: 8px;
+}
+
+.location-dd {
+  display: flex;
+  align-items: center;
+}
+
+.location-icon-dd {
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+}
+
+.view-button-dd {
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  padding: 10px 20px; /* Increase padding for better clickability */
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s ease; /* Add transition for transform and background-color */
+}
+
+.view-button-dd:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px); /* Move the button up by 2 pixels */
+}
+
+/* Modal styles */
+.job-details-modal-dd {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000; /* Ensure modal is on top of other content */
+}
+
+.job-details-content-dd {
+  background: #fff;
+  padding: 32px;
+  border: 1px solid #ddd; /* Add border to modal content */
+  border-radius: 8px;
+  width: 90%;
+  max-width: 700px; /* Increase max-width for better content fit */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Add shadow for modal */
+  overflow-y: auto; /* Add scroll for overflowing content */
+  max-height: 90vh; /* Ensure modal does not exceed viewport height */
+}
+
+.job-details-content-dd h2 {
+  margin-top: 0;
+  font-size: 24px; /* Increase font size for modal heading */
+  color: #333; /* Change text color for better readability */
+  border-bottom: 1px solid #ddd; /* Add border to the heading */
+  padding-bottom: 8px; /* Add padding to separate from content */
+  margin-bottom: 16px; /* Add margin to separate from content */
+}
+
+.job-details-content-dd p {
+  margin-bottom: 16px; /* Increase bottom margin for paragraphs */
+  line-height: 1.6; /* Increase line height for better readability */
+}
+
+.job-details-content-dd button {
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  padding: 10px 20px; /* Increase padding for better clickability */
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Add transition for background-color and transform */
+}
+
+.job-details-content-dd button:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px); /* Move the button up by 2 pixels */
+}

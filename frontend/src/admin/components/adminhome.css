@@ -1,0 +1,28 @@
+.nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1b1313;
+    margin: 10px 0;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+.nav a:hover {
+    background-color: #0e0b0b;
+}
+
+/* adminhome.css */
+
+.admin-imagee {
+    display: block;
+    margin: 20px auto; /* Adjust margin as needed */
+    max-width: 100%; /* Ensure image is responsive */
+    height: auto;
+}
+

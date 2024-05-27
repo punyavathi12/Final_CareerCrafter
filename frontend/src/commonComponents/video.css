@@ -1,0 +1,17 @@
+/* VideoPlayer.css */
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: #f0f0f0; /* Optional: Add a background color */
+  }
+  
+  video {
+    border: 2px solid #333; /* Optional: Add a border */
+    border-radius: 10px; /* Optional: Add rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a shadow */
+  }
+  
+  

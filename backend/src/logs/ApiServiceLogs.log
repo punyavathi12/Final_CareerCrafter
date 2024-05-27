@@ -1,0 +1,2089 @@
+[INFO] - May-06-2024 13:57:46 - Authentication API Development using Express JS
+[ERROR] - May-06-2024 21:21:11 - Error in DELETE /deletejobbyemp/:id: undefined
+[INFO] - May-06-2024 21:22:26 - GET /application request successful
+[WARN] - May-06-2024 21:23:51 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeid"}]
+[WARN] - May-06-2024 21:24:21 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeid"}]
+[WARN] - May-06-2024 21:37:55 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[WARN] - May-06-2024 21:48:42 - Validation errors in POST /createjobbyemp: [{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Company name is required"}]
+[WARN] - May-06-2024 21:49:10 - Validation errors in POST /createjobbyemp: [{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Company name is required"}]
+[WARN] - May-06-2024 21:50:06 - Validation errors in PUT /updatejobbyemp/:id: [{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Company name is required"}]
+[WARN] - May-06-2024 22:17:39 - Validation errors in POST /createjobbyemp: [{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Company name is required"}]
+[WARN] - May-06-2024 22:17:57 - Validation errors in PUT /updatejobbyemp/:id: [{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Company name is required"}]
+[WARN] - May-06-2024 22:31:51 - Validation errors in POST /createjobbyemp: [{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Company name is required"}]
+[WARN] - May-06-2024 22:33:01 - Validation errors in POST /createjobbyemp: [{"undefined":"Minimum salary must be a valid decimal number"}]
+[ERROR] - May-06-2024 22:33:32 - Error in POST /createjobbyemp: undefined
+[WARN] - May-06-2024 22:34:13 - Validation errors in PUT /updatejobbyemp/:id: [{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Company name is required"}]
+[INFO] - May-06-2024 22:34:41 - PUT /updatejobbyemp/:id request successful
+[WARN] - May-06-2024 22:35:49 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[ERROR] - May-06-2024 22:37:21 - Error in DELETE /deletejobbyemp/:id: undefined
+[WARN] - May-06-2024 22:39:08 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[WARN] - May-06-2024 22:44:02 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[ERROR] - May-06-2024 22:51:06 - Error in GET /applicationByemp/:id: employeservices.viewApplicationById is not a function
+[ERROR] - May-06-2024 22:54:18 - Error in GET /applicationByemp/:id: employeservices.viewApplicationById is not a function
+[INFO] - May-06-2024 22:56:30 - GET /applicationByemp/:id request successful
+[INFO] - May-06-2024 22:56:40 - GET /applicationByemp/:id request successful
+[INFO] - May-07-2024 09:08:19 - GET /jobs request successful
+[INFO] - May-07-2024 09:08:32 - GET /jobs request successful
+[INFO] - May-07-2024 09:10:49 - GET /jobs request successful
+[ERROR] - May-07-2024 09:35:53 - [object Object]
+[ERROR] - May-07-2024 09:52:09 - Error in POST /createjobbyemp: undefined
+[WARN] - May-07-2024 09:54:31 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[WARN] - May-07-2024 09:54:46 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[INFO] - May-07-2024 15:21:53 - GET /jobs request successful
+[INFO] - May-07-2024 15:30:02 - GET /jobs request successful
+[INFO] - May-07-2024 15:34:35 - GET /jobs request successful
+[ERROR] - May-07-2024 15:34:35 - Error in POST /createjobbyemp: undefined
+[ERROR] - May-07-2024 15:34:35 - Error in POST /createjobbyemp: undefined
+[INFO] - May-07-2024 15:34:35 - PUT /updatejobbyemp/:id request successful
+[ERROR] - May-07-2024 15:34:35 - Error in DELETE /deletejobbyemp/:id: undefined
+[INFO] - May-07-2024 15:34:35 - GET /application request successful
+[WARN] - May-07-2024 15:34:35 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[INFO] - May-07-2024 15:38:43 - GET /jobs request successful
+[ERROR] - May-07-2024 15:38:43 - Error in POST /createjobbyemp: undefined
+[ERROR] - May-07-2024 15:38:43 - Error in POST /createjobbyemp: undefined
+[INFO] - May-07-2024 15:38:43 - PUT /updatejobbyemp/:id request successful
+[INFO] - May-07-2024 15:38:43 - PUT /updatejobbyemp/:id request successful
+[ERROR] - May-07-2024 15:38:43 - Error in DELETE /deletejobbyemp/:id: undefined
+[INFO] - May-07-2024 15:38:43 - GET /application request successful
+[WARN] - May-07-2024 15:38:43 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[INFO] - May-12-2024 21:28:27 - GET /application request successful
+[WARN] - May-12-2024 21:29:04 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[WARN] - May-12-2024 21:29:15 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[INFO] - May-12-2024 22:04:04 - GET /jobs request successful
+[ERROR] - May-12-2024 22:05:38 - Error in POST /createjobbyemp: undefined
+[INFO] - May-12-2024 22:07:51 - PUT /updatejobbyemp/:id request successful
+[ERROR] - May-12-2024 22:08:20 - Error in DELETE /deletejobbyemp/:id: undefined
+[INFO] - May-12-2024 22:09:14 - PUT /updatejobbyemp/:id request successful
+[INFO] - May-17-2024 10:19:36 - Authentication API Development using Express JS
+[ERROR] - May-17-2024 10:26:13 - [object Object]
+[ERROR] - May-17-2024 10:26:23 - [object Object]
+[ERROR] - May-17-2024 10:29:28 - [object Object]
+[INFO] - May-17-2024 10:57:47 - GET /jobs request successful
+[ERROR] - May-17-2024 11:03:55 - Error in POST /createjobbyemp: undefined
+[INFO] - May-17-2024 11:08:00 - PUT /updatejobbyemp/:id request successful
+[ERROR] - May-17-2024 11:11:17 - Error in DELETE /deletejobbyemp/:id: undefined
+[ERROR] - May-17-2024 11:11:39 - Error in DELETE /deletejobbyemp/:id: undefined
+[ERROR] - May-17-2024 11:11:57 - Error in DELETE /deletejobbyemp/:id: undefined
+[ERROR] - May-17-2024 11:12:08 - Error in DELETE /deletejobbyemp/:id: undefined
+[ERROR] - May-17-2024 11:12:10 - Error in DELETE /deletejobbyemp/:id: undefined
+[INFO] - May-17-2024 11:14:25 - GET /application request successful
+[WARN] - May-17-2024 11:15:31 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[WARN] - May-17-2024 11:17:14 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[INFO] - May-17-2024 11:38:09 - GET /application request successful
+[WARN] - May-17-2024 11:38:27 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[WARN] - May-17-2024 11:38:36 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[WARN] - May-17-2024 23:05:39 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[WARN] - May-17-2024 23:05:57 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[ERROR] - May-17-2024 23:16:45 - Error in POST /createjobbyemp: undefined
+[INFO] - May-17-2024 23:18:59 - PUT /updatejobbyemp/:id request successful
+[WARN] - May-17-2024 23:19:27 - Validation errors in GET /applicationByemp/:id: [{"undefined":"Invalid employeId"}]
+[INFO] - May-19-2024 11:12:27 - GET /applicationByemp/:id request successful
+[ERROR] - May-20-2024 15:25:48 - undefined: checkResume is not defined
+[INFO] - May-20-2024 15:27:14 - Action successfully executed.
+[ERROR] - May-20-2024 15:31:18 - undefined: resume_model is not defined
+[INFO] - May-20-2024 15:31:51 - Action successfully executed.
+[INFO] - May-20-2024 15:33:01 - Action successfully executed.
+[ERROR] - May-20-2024 15:36:01 - undefined: resume not present for this id
+[INFO] - May-20-2024 16:13:33 - Action successfully executed.
+[INFO] - May-21-2024 16:43:16 - GET /application request successful
+[ERROR] - May-22-2024 11:35:08 - [object Object]
+[ERROR] - May-22-2024 11:38:02 - [object Object]
+[ERROR] - May-22-2024 11:40:32 - [object Object]
+[ERROR] - May-22-2024 11:40:59 - [object Object]
+[ERROR] - May-22-2024 11:42:31 - [object Object]
+[ERROR] - May-22-2024 11:43:59 - [object Object]
+[ERROR] - May-22-2024 11:48:50 - [object Object]
+[ERROR] - May-22-2024 11:48:55 - [object Object]
+[ERROR] - May-22-2024 11:54:09 - [object Object]
+[ERROR] - May-22-2024 11:57:22 - [object Object]
+[ERROR] - May-22-2024 11:57:25 - [object Object]
+[ERROR] - May-22-2024 11:57:25 - [object Object]
+[ERROR] - May-22-2024 11:58:34 - [object Object]
+[ERROR] - May-22-2024 11:59:41 - [object Object]
+[ERROR] - May-22-2024 12:02:18 - [object Object]
+[ERROR] - May-22-2024 12:02:21 - [object Object]
+[ERROR] - May-22-2024 12:07:09 - [object Object]
+[ERROR] - May-22-2024 12:10:03 - [object Object]
+[ERROR] - May-22-2024 12:10:05 - [object Object]
+[ERROR] - May-22-2024 12:17:52 - [object Object]
+[ERROR] - May-22-2024 12:17:55 - [object Object]
+[ERROR] - May-22-2024 12:30:15 - [object Object]
+[ERROR] - May-22-2024 12:30:17 - [object Object]
+[ERROR] - May-22-2024 12:30:45 - [object Object]
+[ERROR] - May-22-2024 12:32:43 - [object Object]
+[ERROR] - May-22-2024 12:33:05 - [object Object]
+[ERROR] - May-22-2024 12:34:34 - [object Object]
+[ERROR] - May-22-2024 12:39:05 - [object Object]
+[ERROR] - May-22-2024 12:39:48 - [object Object]
+[ERROR] - May-22-2024 12:40:11 - [object Object]
+[ERROR] - May-22-2024 12:50:40 - [object Object]
+[INFO] - May-22-2024 16:03:50 - GET /jobs request successful
+[INFO] - May-22-2024 16:11:15 - GET /jobs request successful
+[INFO] - May-22-2024 16:14:23 - GET /jobs request successful
+[INFO] - May-22-2024 16:16:21 - GET /jobs request successful
+[INFO] - May-22-2024 16:22:40 - GET /jobs request successful
+[INFO] - May-22-2024 16:26:12 - GET /jobs request successful
+[INFO] - May-22-2024 17:02:04 - GET /jobs request successful
+[INFO] - May-22-2024 17:02:04 - GET /jobs request successful
+[INFO] - May-22-2024 17:03:40 - GET /jobs request successful
+[INFO] - May-22-2024 17:03:40 - GET /jobs request successful
+[INFO] - May-22-2024 17:03:55 - GET /jobs request successful
+[INFO] - May-22-2024 17:03:55 - GET /jobs request successful
+[INFO] - May-22-2024 22:13:38 - GET /jobs request successful
+[INFO] - May-22-2024 22:13:38 - GET /jobs request successful
+[INFO] - May-22-2024 22:18:49 - GET /jobs request successful
+[INFO] - May-22-2024 22:30:25 - GET /jobs request successful
+[INFO] - May-22-2024 22:31:47 - GET /jobs request successful
+[INFO] - May-22-2024 22:36:39 - GET /jobs request successful
+[INFO] - May-22-2024 22:36:39 - GET /jobs request successful
+[INFO] - May-22-2024 22:46:39 - GET /jobs request successful
+[INFO] - May-22-2024 22:50:37 - GET /jobs request successful
+[INFO] - May-22-2024 22:53:57 - GET /jobs request successful
+[INFO] - May-22-2024 22:55:37 - GET /jobs request successful
+[INFO] - May-22-2024 22:57:20 - GET /jobs request successful
+[INFO] - May-22-2024 23:08:43 - GET /jobs request successful
+[INFO] - May-22-2024 23:10:49 - GET /jobs request successful
+[INFO] - May-23-2024 10:39:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 10:39:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 11:27:41 - GET /applications request successful
+[INFO] - May-23-2024 11:36:00 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 11:36:06 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 11:36:24 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 11:36:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 11:56:22 - GET /jobs request successful
+[INFO] - May-23-2024 11:56:22 - GET /jobs request successful
+[INFO] - May-23-2024 11:56:28 - GET /jobs request successful
+[INFO] - May-23-2024 11:56:28 - GET /jobs request successful
+[INFO] - May-23-2024 11:59:54 - GET /jobs request successful
+[INFO] - May-23-2024 11:59:57 - GET /jobs request successful
+[INFO] - May-23-2024 11:59:57 - GET /jobs request successful
+[INFO] - May-23-2024 12:55:44 - GET /jobs request successful
+[INFO] - May-23-2024 12:55:44 - GET /jobs request successful
+[INFO] - May-23-2024 14:03:24 - GET /jobs request successful
+[INFO] - May-23-2024 14:03:24 - GET /jobs request successful
+[WARN] - May-23-2024 14:03:27 - Validation errors in POST /createjobbyemp: [{"undefined":"Invalid created_by value"},{"undefined":"Job status must be 'open' or 'closed'"}]
+[INFO] - May-23-2024 14:38:29 - GET /jobs request successful
+[INFO] - May-23-2024 14:38:30 - GET /jobs request successful
+[INFO] - May-23-2024 14:38:36 - GET /jobs request successful
+[INFO] - May-23-2024 14:38:36 - GET /jobs request successful
+[INFO] - May-23-2024 14:42:55 - GET /jobs request successful
+[INFO] - May-23-2024 14:43:36 - GET /jobs request successful
+[WARN] - May-23-2024 14:43:38 - Validation errors in POST /createjobbyemp: [{"undefined":"Job status must be 'open' or 'closed'"}]
+[INFO] - May-23-2024 14:59:57 - GET /jobs request successful
+[INFO] - May-23-2024 14:59:59 - GET /jobs request successful
+[INFO] - May-23-2024 15:02:28 - GET /jobs request successful
+[INFO] - May-23-2024 15:04:57 - GET /jobs request successful
+[INFO] - May-23-2024 15:04:57 - GET /jobs request successful
+[INFO] - May-23-2024 15:18:12 - GET /jobs request successful
+[WARN] - May-23-2024 15:18:33 - Validation errors in POST /createjobbyemp: [{"undefined":"Job status must be 'open' or 'closed'"}]
+[INFO] - May-23-2024 15:18:33 - GET /jobs request successful
+[ERROR] - May-23-2024 15:25:23 - Error in POST /createjobbyemp: Error in postJobListing: Cannot add or update a child row: a foreign key constraint fails (`careercrafterdb`.`job_listing_table`, CONSTRAINT `job_listing_table_ibfk_1` FOREIGN KEY (`created_by`) REFERENCES `admins_table` (`admin_id`) ON DELETE CASCADE ON UPDATE CASCADE)
+[ERROR] - May-23-2024 15:26:23 - Error in POST /createjobbyemp: undefined
+[ERROR] - May-23-2024 15:26:52 - Error in POST /createjobbyemp: undefined
+[INFO] - May-23-2024 15:26:52 - GET /jobs request successful
+[ERROR] - May-23-2024 15:28:02 - Error in POST /createjobbyemp: undefined
+[INFO] - May-23-2024 15:28:02 - GET /jobs request successful
+[INFO] - May-23-2024 15:34:03 - GET /jobs request successful
+[INFO] - May-23-2024 15:34:45 - GET /jobs request successful
+[INFO] - May-23-2024 15:34:58 - GET /jobs request successful
+[INFO] - May-23-2024 15:46:56 - GET /applications request successful
+[INFO] - May-23-2024 15:47:36 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 15:50:43 - DELETE /deletejobbyemp/:id request successful
+[INFO] - May-23-2024 15:51:19 - DELETE /deletejobbyemp/:id request successful
+[INFO] - May-23-2024 15:53:00 - GET /jobs request successful
+[INFO] - May-23-2024 15:53:31 - GET /jobs request successful
+[INFO] - May-23-2024 15:53:31 - GET /jobs request successful
+[INFO] - May-23-2024 15:53:36 - GET /jobs request successful
+[INFO] - May-23-2024 15:53:36 - GET /jobs request successful
+[INFO] - May-23-2024 15:54:00 - GET /jobs request successful
+[INFO] - May-23-2024 15:54:00 - GET /jobs request successful
+[INFO] - May-23-2024 15:58:26 - GET /jobs request successful
+[INFO] - May-23-2024 15:58:26 - GET /jobs request successful
+[INFO] - May-23-2024 16:03:20 - GET /jobs request successful
+[INFO] - May-23-2024 16:03:20 - GET /jobs request successful
+[INFO] - May-23-2024 16:03:41 - GET /jobs request successful
+[INFO] - May-23-2024 16:07:14 - GET /jobs request successful
+[INFO] - May-23-2024 16:07:14 - GET /jobs request successful
+[INFO] - May-23-2024 16:07:22 - GET /jobs request successful
+[INFO] - May-23-2024 16:11:55 - GET /jobs request successful
+[INFO] - May-23-2024 16:12:15 - GET /jobs request successful
+[INFO] - May-23-2024 16:14:48 - GET /jobs request successful
+[INFO] - May-23-2024 16:14:51 - GET /jobs request successful
+[INFO] - May-23-2024 16:24:12 - GET /jobs request successful
+[INFO] - May-23-2024 16:24:12 - GET /jobs request successful
+[INFO] - May-23-2024 16:27:53 - GET /jobs request successful
+[INFO] - May-23-2024 16:29:25 - GET /jobs request successful
+[INFO] - May-23-2024 16:30:02 - GET /jobs request successful
+[INFO] - May-23-2024 16:30:07 - GET /jobs request successful
+[INFO] - May-23-2024 16:30:07 - GET /jobs request successful
+[INFO] - May-23-2024 16:34:26 - GET /jobs request successful
+[INFO] - May-23-2024 16:34:55 - GET /jobs request successful
+[INFO] - May-23-2024 16:34:55 - GET /jobs request successful
+[INFO] - May-23-2024 16:35:18 - GET /jobs request successful
+[INFO] - May-23-2024 16:35:18 - GET /jobs request successful
+[INFO] - May-23-2024 16:35:36 - GET /jobs request successful
+[INFO] - May-23-2024 16:35:36 - GET /jobs request successful
+[INFO] - May-23-2024 16:36:36 - GET /jobs request successful
+[INFO] - May-23-2024 16:36:36 - GET /jobs request successful
+[INFO] - May-23-2024 16:41:53 - GET /jobs request successful
+[INFO] - May-23-2024 16:41:53 - GET /jobs request successful
+[INFO] - May-23-2024 16:42:52 - GET /jobs request successful
+[INFO] - May-23-2024 16:42:56 - GET /jobs request successful
+[INFO] - May-23-2024 16:51:16 - GET /jobs request successful
+[INFO] - May-23-2024 16:54:20 - GET /jobs request successful
+[INFO] - May-23-2024 16:55:36 - GET /jobs request successful
+[INFO] - May-23-2024 17:00:25 - GET /jobs request successful
+[INFO] - May-23-2024 17:01:01 - GET /jobs request successful
+[INFO] - May-23-2024 17:01:01 - GET /jobs request successful
+[INFO] - May-23-2024 17:01:32 - GET /jobs request successful
+[INFO] - May-23-2024 17:01:32 - GET /jobs request successful
+[INFO] - May-23-2024 17:01:44 - GET /jobs request successful
+[INFO] - May-23-2024 17:01:56 - GET /jobs request successful
+[INFO] - May-23-2024 17:02:07 - GET /jobs request successful
+[INFO] - May-23-2024 17:02:07 - GET /jobs request successful
+[INFO] - May-23-2024 17:05:09 - GET /jobs request successful
+[INFO] - May-23-2024 17:05:09 - GET /jobs request successful
+[INFO] - May-23-2024 17:05:51 - GET /jobs request successful
+[INFO] - May-23-2024 17:05:51 - GET /jobs request successful
+[INFO] - May-23-2024 17:06:07 - GET /jobs request successful
+[WARN] - May-23-2024 17:44:23 - Validation errors in POST /createjobbyemp: [{"undefined":"Invalid created_by value"}]
+[INFO] - May-23-2024 17:52:54 - GET /jobs request successful
+[INFO] - May-23-2024 17:52:54 - GET /jobs request successful
+[INFO] - May-23-2024 17:54:40 - GET /jobs request successful
+[INFO] - May-23-2024 18:00:00 - GET /jobs request successful
+[INFO] - May-23-2024 18:00:07 - GET /jobs request successful
+[INFO] - May-23-2024 18:15:02 - GET /jobs request successful
+[INFO] - May-23-2024 18:15:02 - GET /jobs request successful
+[INFO] - May-23-2024 18:21:54 - GET /jobs request successful
+[INFO] - May-23-2024 18:24:21 - GET /jobs request successful
+[INFO] - May-23-2024 18:24:51 - GET /jobs request successful
+[INFO] - May-23-2024 18:24:51 - GET /jobs request successful
+[INFO] - May-23-2024 18:34:49 - GET /jobs request successful
+[INFO] - May-23-2024 18:41:25 - GET /jobs request successful
+[INFO] - May-23-2024 18:41:25 - GET /jobs request successful
+[INFO] - May-23-2024 18:53:09 - GET /jobs request successful
+[INFO] - May-23-2024 18:53:09 - GET /jobs request successful
+[INFO] - May-23-2024 18:54:54 - GET /jobs request successful
+[INFO] - May-23-2024 19:01:06 - GET /jobs request successful
+[INFO] - May-23-2024 19:01:06 - GET /jobs request successful
+[INFO] - May-23-2024 19:03:25 - GET /jobs request successful
+[INFO] - May-23-2024 19:04:30 - GET /jobs request successful
+[INFO] - May-23-2024 19:04:30 - GET /jobs request successful
+[WARN] - May-23-2024 19:42:26 - Validation errors in GET /jobs/employee/:employeeId: [{"undefined":"Invalid employeeId"}]
+[WARN] - May-23-2024 19:42:31 - Validation errors in GET /jobs/employee/:employeeId: [{"undefined":"Invalid employeeId"}]
+[WARN] - May-23-2024 19:42:31 - Validation errors in GET /jobs/employee/:employeeId: [{"undefined":"Invalid employeeId"}]
+[WARN] - May-23-2024 19:44:58 - Validation errors in GET /jobs/employee/:employeeId: [{"undefined":"Invalid employeeId"}]
+[WARN] - May-23-2024 19:51:35 - Validation errors in GET /jobs/employee/:employeeId: [{"undefined":"Invalid employeeId"}]
+[INFO] - May-23-2024 20:09:07 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 20:09:07 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 20:45:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 20:46:51 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 21:00:44 - GET /jobs request successful
+[INFO] - May-23-2024 21:00:44 - GET /jobs request successful
+[INFO] - May-23-2024 21:18:42 - GET /jobs request successful
+[INFO] - May-23-2024 21:18:42 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:01 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:01 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:28 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:28 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:32 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:32 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:36 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:36 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:38 - GET /jobs request successful
+[INFO] - May-23-2024 21:20:38 - GET /jobs request successful
+[INFO] - May-23-2024 21:25:03 - GET /jobs request successful
+[INFO] - May-23-2024 21:25:46 - GET /jobs request successful
+[INFO] - May-23-2024 21:25:46 - GET /jobs request successful
+[INFO] - May-23-2024 21:25:50 - GET /jobs request successful
+[INFO] - May-23-2024 21:25:50 - GET /jobs request successful
+[INFO] - May-23-2024 21:30:29 - GET /jobs request successful
+[INFO] - May-23-2024 21:30:29 - GET /jobs request successful
+[INFO] - May-23-2024 21:30:38 - GET /jobs request successful
+[INFO] - May-23-2024 21:30:38 - GET /jobs request successful
+[INFO] - May-23-2024 21:34:05 - GET /jobs request successful
+[INFO] - May-23-2024 21:34:39 - GET /jobs request successful
+[INFO] - May-23-2024 21:34:39 - GET /jobs request successful
+[INFO] - May-23-2024 21:35:28 - GET /jobs request successful
+[INFO] - May-23-2024 21:35:28 - GET /jobs request successful
+[INFO] - May-23-2024 21:36:07 - GET /jobs request successful
+[INFO] - May-23-2024 21:36:10 - GET /jobs request successful
+[INFO] - May-23-2024 21:36:10 - GET /jobs request successful
+[INFO] - May-23-2024 21:36:13 - GET /jobs request successful
+[INFO] - May-23-2024 21:36:13 - GET /jobs request successful
+[INFO] - May-23-2024 21:36:52 - GET /jobs request successful
+[INFO] - May-23-2024 21:38:54 - GET /jobs request successful
+[INFO] - May-23-2024 21:40:42 - GET /jobs request successful
+[INFO] - May-23-2024 21:40:42 - GET /jobs request successful
+[INFO] - May-23-2024 21:40:44 - GET /jobs request successful
+[INFO] - May-23-2024 21:40:44 - GET /jobs request successful
+[INFO] - May-23-2024 21:40:46 - GET /jobs request successful
+[INFO] - May-23-2024 21:40:46 - GET /jobs request successful
+[INFO] - May-23-2024 21:41:58 - GET /jobs request successful
+[INFO] - May-23-2024 21:41:58 - GET /jobs request successful
+[INFO] - May-23-2024 21:42:00 - GET /jobs request successful
+[INFO] - May-23-2024 21:42:00 - GET /jobs request successful
+[INFO] - May-23-2024 21:42:42 - GET /jobs request successful
+[INFO] - May-23-2024 21:42:42 - GET /jobs request successful
+[INFO] - May-23-2024 21:42:44 - GET /jobs request successful
+[INFO] - May-23-2024 21:42:44 - GET /jobs request successful
+[INFO] - May-23-2024 21:46:38 - GET /jobs request successful
+[INFO] - May-23-2024 21:46:38 - GET /jobs request successful
+[INFO] - May-23-2024 21:46:40 - GET /jobs request successful
+[INFO] - May-23-2024 21:46:41 - GET /jobs request successful
+[INFO] - May-23-2024 21:48:55 - GET /jobs request successful
+[INFO] - May-23-2024 21:48:55 - GET /jobs request successful
+[INFO] - May-23-2024 21:48:57 - GET /jobs request successful
+[INFO] - May-23-2024 21:48:57 - GET /jobs request successful
+[INFO] - May-23-2024 21:49:22 - GET /jobs request successful
+[INFO] - May-23-2024 21:49:22 - GET /jobs request successful
+[INFO] - May-23-2024 21:51:17 - GET /jobs request successful
+[INFO] - May-23-2024 21:51:17 - GET /jobs request successful
+[INFO] - May-23-2024 21:51:20 - GET /jobs request successful
+[INFO] - May-23-2024 21:51:20 - GET /jobs request successful
+[INFO] - May-23-2024 21:52:10 - GET /jobs request successful
+[INFO] - May-23-2024 21:52:10 - GET /jobs request successful
+[INFO] - May-23-2024 21:52:23 - GET /jobs request successful
+[INFO] - May-23-2024 21:52:23 - GET /jobs request successful
+[INFO] - May-23-2024 21:52:26 - GET /jobs request successful
+[INFO] - May-23-2024 21:52:26 - GET /jobs request successful
+[INFO] - May-23-2024 21:56:05 - GET /jobs request successful
+[INFO] - May-23-2024 21:56:05 - GET /jobs request successful
+[INFO] - May-23-2024 21:56:06 - GET /jobs request successful
+[INFO] - May-23-2024 21:56:06 - GET /jobs request successful
+[INFO] - May-23-2024 21:57:18 - GET /jobs request successful
+[INFO] - May-23-2024 21:57:18 - GET /jobs request successful
+[INFO] - May-23-2024 21:57:20 - GET /jobs request successful
+[INFO] - May-23-2024 21:57:20 - GET /jobs request successful
+[INFO] - May-23-2024 22:11:36 - GET /jobs request successful
+[INFO] - May-23-2024 22:11:36 - GET /jobs request successful
+[INFO] - May-23-2024 22:11:46 - GET /jobs request successful
+[INFO] - May-23-2024 22:11:46 - GET /jobs request successful
+[INFO] - May-23-2024 22:11:50 - GET /jobs request successful
+[INFO] - May-23-2024 22:11:50 - GET /jobs request successful
+[INFO] - May-23-2024 22:23:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:32:25 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:32:25 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:32:30 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:32:31 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:33:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:33:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:33:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:33:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:36:46 - GET /jobs request successful
+[INFO] - May-23-2024 22:36:46 - GET /jobs request successful
+[INFO] - May-23-2024 22:36:53 - GET /jobs request successful
+[INFO] - May-23-2024 22:36:53 - GET /jobs request successful
+[INFO] - May-23-2024 22:36:57 - GET /jobs request successful
+[INFO] - May-23-2024 22:36:57 - GET /jobs request successful
+[INFO] - May-23-2024 22:36:59 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:36:59 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:37:38 - GET /jobs request successful
+[INFO] - May-23-2024 22:37:38 - GET /jobs request successful
+[INFO] - May-23-2024 22:37:41 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:37:41 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:38:02 - GET /jobs request successful
+[INFO] - May-23-2024 22:38:02 - GET /jobs request successful
+[INFO] - May-23-2024 22:38:29 - GET /jobs request successful
+[INFO] - May-23-2024 22:38:29 - GET /jobs request successful
+[INFO] - May-23-2024 22:38:30 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:38:30 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:38:51 - GET /jobs request successful
+[INFO] - May-23-2024 22:38:51 - GET /jobs request successful
+[INFO] - May-23-2024 22:38:54 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:38:54 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:38:59 - GET /jobs request successful
+[INFO] - May-23-2024 22:38:59 - GET /jobs request successful
+[INFO] - May-23-2024 22:39:22 - GET /jobs request successful
+[INFO] - May-23-2024 22:39:22 - GET /jobs request successful
+[INFO] - May-23-2024 22:39:58 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:39:58 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:42:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:46:16 - GET /jobs request successful
+[INFO] - May-23-2024 22:46:17 - GET /jobs request successful
+[INFO] - May-23-2024 22:46:24 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:46:24 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:48:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:48:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:48:44 - GET /jobs request successful
+[INFO] - May-23-2024 22:48:44 - GET /jobs request successful
+[INFO] - May-23-2024 22:49:10 - GET /jobs request successful
+[INFO] - May-23-2024 22:49:10 - GET /jobs request successful
+[INFO] - May-23-2024 22:49:13 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:49:13 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:49:17 - GET /jobs request successful
+[INFO] - May-23-2024 22:49:17 - GET /jobs request successful
+[INFO] - May-23-2024 22:49:20 - GET /jobs request successful
+[INFO] - May-23-2024 22:49:20 - GET /jobs request successful
+[INFO] - May-23-2024 22:49:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:49:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:49:42 - GET /jobs request successful
+[INFO] - May-23-2024 22:49:42 - GET /jobs request successful
+[INFO] - May-23-2024 22:49:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:49:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:51:42 - GET /jobs request successful
+[INFO] - May-23-2024 22:51:42 - GET /jobs request successful
+[INFO] - May-23-2024 22:51:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:51:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:52:26 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:52:29 - GET /jobs request successful
+[INFO] - May-23-2024 22:52:29 - GET /jobs request successful
+[INFO] - May-23-2024 22:52:32 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:52:32 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:53:17 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:53:17 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:53:20 - GET /jobs request successful
+[INFO] - May-23-2024 22:53:20 - GET /jobs request successful
+[INFO] - May-23-2024 22:54:51 - GET /jobs request successful
+[INFO] - May-23-2024 22:54:51 - GET /jobs request successful
+[INFO] - May-23-2024 22:54:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:54:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:55:14 - GET /jobs request successful
+[INFO] - May-23-2024 22:55:14 - GET /jobs request successful
+[INFO] - May-23-2024 22:56:29 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:56:29 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:56:34 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:56:34 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:56:37 - GET /jobs request successful
+[INFO] - May-23-2024 22:56:37 - GET /jobs request successful
+[INFO] - May-23-2024 22:56:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:56:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:58:19 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 22:58:19 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 23:02:56 - GET /jobs request successful
+[INFO] - May-23-2024 23:02:56 - GET /jobs request successful
+[INFO] - May-23-2024 23:03:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 23:03:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 23:03:18 - GET /jobs request successful
+[INFO] - May-23-2024 23:03:18 - GET /jobs request successful
+[INFO] - May-23-2024 23:03:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 23:03:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 23:04:22 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 23:04:22 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-23-2024 23:16:52 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:16:52 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:21:39 - GET /jobs request successful
+[INFO] - May-23-2024 23:21:39 - GET /jobs request successful
+[INFO] - May-23-2024 23:23:32 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:23:32 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:25:59 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:29:05 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:30:53 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:31:19 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:33:34 - GET /applicationByemp/:id request successful
+[ERROR] - May-23-2024 23:33:37 - undefined: resume not present for this id
+[ERROR] - May-23-2024 23:33:39 - undefined: resume not present for this id
+[ERROR] - May-23-2024 23:35:25 - undefined: resume not present for this id
+[ERROR] - May-23-2024 23:35:26 - undefined: resume not present for this id
+[INFO] - May-23-2024 23:35:52 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:35:52 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:37:41 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:37:41 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:37:43 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:37:43 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:41:01 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:41:02 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:41:03 - Action successfully executed.
+[INFO] - May-23-2024 23:48:17 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:48:17 - GET /applicationByemp/:id request successful
+[ERROR] - May-23-2024 23:49:20 - undefined: resume not present for this id
+[ERROR] - May-23-2024 23:49:21 - undefined: resume not present for this id
+[ERROR] - May-23-2024 23:49:23 - undefined: resume not present for this id
+[INFO] - May-23-2024 23:49:24 - Action successfully executed.
+[ERROR] - May-23-2024 23:49:30 - undefined: resume not present for this id
+[ERROR] - May-23-2024 23:49:32 - undefined: resume not present for this id
+[ERROR] - May-23-2024 23:49:32 - undefined: resume not present for this id
+[ERROR] - May-23-2024 23:49:32 - undefined: resume not present for this id
+[INFO] - May-23-2024 23:49:34 - Action successfully executed.
+[INFO] - May-23-2024 23:51:33 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:51:33 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:51:35 - Action successfully executed.
+[INFO] - May-23-2024 23:52:15 - Action successfully executed.
+[INFO] - May-23-2024 23:52:18 - Action successfully executed.
+[INFO] - May-23-2024 23:52:48 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:52:52 - Action successfully executed.
+[INFO] - May-23-2024 23:55:27 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:55:27 - GET /applicationByemp/:id request successful
+[INFO] - May-23-2024 23:58:20 - Action successfully executed.
+[INFO] - May-24-2024 00:04:08 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:04:08 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:04:23 - Action successfully executed.
+[INFO] - May-24-2024 00:05:11 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:05:11 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:18:11 - GET /jobs request successful
+[INFO] - May-24-2024 00:18:11 - GET /jobs request successful
+[INFO] - May-24-2024 00:18:13 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:18:13 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:26:34 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:26:34 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:26:40 - GET /jobs request successful
+[INFO] - May-24-2024 00:26:40 - GET /jobs request successful
+[INFO] - May-24-2024 00:26:42 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:26:42 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:26:43 - GET /jobs request successful
+[INFO] - May-24-2024 00:26:43 - GET /jobs request successful
+[INFO] - May-24-2024 00:26:51 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:26:51 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:26:53 - GET /jobs request successful
+[INFO] - May-24-2024 00:26:53 - GET /jobs request successful
+[INFO] - May-24-2024 00:26:54 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 00:26:54 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 00:27:11 - GET /jobs request successful
+[INFO] - May-24-2024 00:27:11 - GET /jobs request successful
+[INFO] - May-24-2024 00:27:15 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:27:15 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:28:30 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:28:30 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:29:02 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:29:34 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:29:34 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:29:38 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:29:38 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:29:59 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:29:59 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:30:06 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:30:06 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:30:11 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:30:11 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:30:20 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:30:20 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:31:11 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:31:11 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:31:16 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:31:16 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:31:28 - GET /jobs request successful
+[INFO] - May-24-2024 00:31:28 - GET /jobs request successful
+[INFO] - May-24-2024 00:31:30 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:31:30 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:35:29 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:35:29 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:36:18 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:36:18 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:37:40 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:37:40 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:40:39 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:40:39 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:40:59 - GET /jobs request successful
+[INFO] - May-24-2024 00:40:59 - GET /jobs request successful
+[INFO] - May-24-2024 00:41:00 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:41:00 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:41:02 - GET /jobs request successful
+[INFO] - May-24-2024 00:41:02 - GET /jobs request successful
+[INFO] - May-24-2024 00:41:04 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 00:41:04 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 00:41:28 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:41:28 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:41:39 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:41:39 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:43:55 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:43:55 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:44:01 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:44:01 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:53:30 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 00:53:30 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:10:50 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:10:53 - Action successfully executed.
+[INFO] - May-24-2024 01:10:57 - Action successfully executed.
+[INFO] - May-24-2024 01:14:43 - GET /jobs request successful
+[INFO] - May-24-2024 01:14:43 - GET /jobs request successful
+[INFO] - May-24-2024 01:14:44 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:14:44 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:14:47 - Action successfully executed.
+[INFO] - May-24-2024 01:21:19 - GET /jobs request successful
+[INFO] - May-24-2024 01:21:19 - GET /jobs request successful
+[INFO] - May-24-2024 01:21:20 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:21:20 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:21:23 - Action successfully executed.
+[INFO] - May-24-2024 01:21:23 - Action successfully executed.
+[INFO] - May-24-2024 01:21:38 - Action successfully executed.
+[INFO] - May-24-2024 01:21:38 - Action successfully executed.
+[INFO] - May-24-2024 01:26:07 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:26:07 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:26:10 - Action successfully executed.
+[INFO] - May-24-2024 01:35:41 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:35:41 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:35:46 - Action successfully executed.
+[INFO] - May-24-2024 01:35:57 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:35:57 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:38:51 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:38:51 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:38:54 - Action successfully executed.
+[INFO] - May-24-2024 01:39:01 - GET /jobs request successful
+[INFO] - May-24-2024 01:39:01 - GET /jobs request successful
+[INFO] - May-24-2024 01:39:02 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:39:02 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:41:04 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 01:41:40 - Action successfully executed.
+[INFO] - May-24-2024 01:45:09 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 01:45:09 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 01:52:41 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 01:52:41 - GET /jobs/employee/:employeeId request successful
+[ERROR] - May-24-2024 01:52:46 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-24-2024 01:52:47 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-24-2024 01:52:49 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-24-2024 01:52:51 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-24-2024 01:52:53 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-24-2024 01:53:30 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[INFO] - May-24-2024 01:55:30 - GET /jobs/employee/:employeeId request successful
+[ERROR] - May-24-2024 01:55:32 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-24-2024 01:55:34 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-24-2024 01:55:35 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[INFO] - May-24-2024 01:56:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 01:56:14 - GET /jobs request successful
+[INFO] - May-24-2024 01:56:14 - GET /jobs request successful
+[INFO] - May-24-2024 02:03:12 - GET /jobs request successful
+[INFO] - May-24-2024 02:03:12 - GET /jobs request successful
+[INFO] - May-24-2024 02:21:40 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 02:21:40 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 02:21:43 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 02:21:43 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 02:24:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 02:24:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 02:24:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 08:26:32 - GET /jobs request successful
+[INFO] - May-24-2024 08:26:32 - GET /jobs request successful
+[INFO] - May-24-2024 08:26:34 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 08:26:34 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 08:26:37 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 08:26:37 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:28:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:28:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:44:31 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:44:31 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:44:34 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 11:44:34 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 11:44:36 - Action successfully executed.
+[INFO] - May-24-2024 11:45:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:45:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:45:51 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:45:51 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:51:01 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:51:01 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:51:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:51:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:51:26 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:51:26 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:51:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 11:51:40 - GET /jobs/employee/:employeeId request successful
+[WARN] - May-24-2024 11:51:46 - Validation errors in POST /createjobbyemp: [{"undefined":"Description is required"},{"undefined":"Qualifications are required"},{"undefined":"Application instructions are required"},{"undefined":"Invalid created_by value"},{"undefined":"Location is required"},{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Maximum salary must be a valid decimal number"},{"undefined":"Company name is required"},{"undefined":"Job status must be 'open' or 'closed'"}]
+[WARN] - May-24-2024 11:51:47 - Validation errors in POST /createjobbyemp: [{"undefined":"Description is required"},{"undefined":"Qualifications are required"},{"undefined":"Application instructions are required"},{"undefined":"Invalid created_by value"},{"undefined":"Location is required"},{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Maximum salary must be a valid decimal number"},{"undefined":"Company name is required"},{"undefined":"Job status must be 'open' or 'closed'"}]
+[INFO] - May-24-2024 11:59:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 12:02:37 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 12:35:21 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 12:35:21 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 12:35:25 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 12:35:30 - GET /jobs/employee/:employeeId request successful
+[WARN] - May-24-2024 12:35:31 - Validation errors in POST /createjobbyemp: [{"undefined":"Job title is required"},{"undefined":"Description is required"},{"undefined":"Qualifications are required"},{"undefined":"Application instructions are required"},{"undefined":"Invalid created_by value"},{"undefined":"Location is required"},{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Maximum salary must be a valid decimal number"},{"undefined":"Company name is required"},{"undefined":"Job status must be 'open' or 'closed'"}]
+[INFO] - May-24-2024 12:50:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 12:50:54 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 12:50:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:10:25 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:10:58 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 13:10:58 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 13:14:39 - GET /jobs request successful
+[INFO] - May-24-2024 13:15:01 - GET /jobs request successful
+[INFO] - May-24-2024 13:15:01 - GET /jobs request successful
+[INFO] - May-24-2024 13:15:05 - GET /jobs request successful
+[INFO] - May-24-2024 13:25:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:25:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:25:11 - GET /jobs request successful
+[INFO] - May-24-2024 13:25:11 - GET /jobs request successful
+[INFO] - May-24-2024 13:26:08 - GET /jobs request successful
+[INFO] - May-24-2024 13:26:08 - GET /jobs request successful
+[INFO] - May-24-2024 13:26:50 - GET /jobs request successful
+[INFO] - May-24-2024 13:26:50 - GET /jobs request successful
+[INFO] - May-24-2024 13:27:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:27:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:27:48 - GET /jobs request successful
+[INFO] - May-24-2024 13:27:48 - GET /jobs request successful
+[INFO] - May-24-2024 13:27:58 - GET /jobs request successful
+[INFO] - May-24-2024 13:27:58 - GET /jobs request successful
+[INFO] - May-24-2024 13:27:59 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 13:27:59 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 13:28:03 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 13:28:03 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 13:28:06 - GET /jobs request successful
+[INFO] - May-24-2024 13:28:06 - GET /jobs request successful
+[INFO] - May-24-2024 13:28:09 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:28:09 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:28:14 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:28:14 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:28:51 - GET /jobs request successful
+[INFO] - May-24-2024 13:28:51 - GET /jobs request successful
+[INFO] - May-24-2024 13:29:54 - GET /jobs request successful
+[INFO] - May-24-2024 13:29:54 - GET /jobs request successful
+[INFO] - May-24-2024 13:30:28 - GET /jobs request successful
+[INFO] - May-24-2024 13:30:28 - GET /jobs request successful
+[INFO] - May-24-2024 13:36:52 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:36:52 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:37:46 - GET /jobs request successful
+[INFO] - May-24-2024 13:37:46 - GET /jobs request successful
+[INFO] - May-24-2024 13:37:58 - GET /jobs request successful
+[WARN] - May-24-2024 13:38:00 - Validation errors in POST /createjobbyemp: [{"undefined":"Job title is required"},{"undefined":"Description is required"},{"undefined":"Qualifications are required"},{"undefined":"Application instructions are required"},{"undefined":"Location is required"},{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Maximum salary must be a valid decimal number"},{"undefined":"Company name is required"},{"undefined":"Job status must be 'open' or 'closed'"}]
+[INFO] - May-24-2024 13:38:19 - GET /jobs request successful
+[INFO] - May-24-2024 13:38:19 - GET /jobs request successful
+[INFO] - May-24-2024 13:38:25 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:38:25 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:55:26 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 13:55:26 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:12:34 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:12:34 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:13:01 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:13:01 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:22:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:22:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:24:00 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:24:00 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:24:37 - GET /jobs request successful
+[INFO] - May-24-2024 14:24:37 - GET /jobs request successful
+[INFO] - May-24-2024 14:24:40 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 14:24:40 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 14:24:43 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:24:43 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 14:24:44 - GET /jobs request successful
+[INFO] - May-24-2024 14:24:44 - GET /jobs request successful
+[INFO] - May-24-2024 14:24:53 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 14:24:53 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 14:25:41 - GET /jobs request successful
+[INFO] - May-24-2024 14:25:41 - GET /jobs request successful
+[INFO] - May-24-2024 14:25:47 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 14:25:47 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 14:25:52 - Action successfully executed.
+[INFO] - May-24-2024 14:25:53 - Action successfully executed.
+[INFO] - May-24-2024 14:26:14 - GET /jobs request successful
+[INFO] - May-24-2024 14:26:14 - GET /jobs request successful
+[INFO] - May-24-2024 14:26:21 - GET /jobs request successful
+[INFO] - May-24-2024 16:27:23 - GET /jobs request successful
+[INFO] - May-24-2024 16:27:23 - GET /jobs request successful
+[INFO] - May-24-2024 16:27:32 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 16:27:32 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 16:27:38 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 16:27:38 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 16:27:43 - GET /jobs request successful
+[INFO] - May-24-2024 16:27:43 - GET /jobs request successful
+[INFO] - May-24-2024 16:27:52 - GET /jobs request successful
+[INFO] - May-24-2024 16:27:52 - GET /jobs request successful
+[INFO] - May-24-2024 16:28:13 - GET /jobs request successful
+[INFO] - May-24-2024 16:42:59 - GET /jobs request successful
+[INFO] - May-24-2024 16:42:59 - GET /jobs request successful
+[INFO] - May-24-2024 16:43:15 - GET /jobs request successful
+[INFO] - May-24-2024 16:43:15 - GET /jobs request successful
+[INFO] - May-24-2024 16:43:42 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 16:43:42 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 16:43:44 - GET /jobs request successful
+[INFO] - May-24-2024 16:43:44 - GET /jobs request successful
+[INFO] - May-24-2024 16:51:11 - GET /jobs request successful
+[INFO] - May-24-2024 16:51:30 - GET /jobs request successful
+[INFO] - May-24-2024 16:51:30 - GET /jobs request successful
+[INFO] - May-24-2024 16:59:35 - GET /jobs request successful
+[INFO] - May-24-2024 16:59:35 - GET /jobs request successful
+[INFO] - May-24-2024 17:03:14 - GET /jobs request successful
+[INFO] - May-24-2024 17:03:14 - GET /jobs request successful
+[INFO] - May-24-2024 17:04:21 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 17:04:21 - GET /jobs/employee/:employeeId request successful
+[WARN] - May-24-2024 17:04:47 - Validation errors in GET /jobs/employee/:employeeId: [{"undefined":"Invalid employeeId"}]
+[INFO] - May-24-2024 17:09:08 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 17:09:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 17:09:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 17:09:47 - GET /jobs/employee/:employeeId request successful
+[WARN] - May-24-2024 17:09:58 - Validation errors in GET /jobs/employee/:employeeId: [{"undefined":"Invalid employeeId"}]
+[INFO] - May-24-2024 21:39:39 - GET /jobs request successful
+[INFO] - May-24-2024 21:39:39 - GET /jobs request successful
+[INFO] - May-24-2024 21:39:41 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 21:39:41 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 21:39:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 21:39:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 21:39:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 21:39:50 - GET /jobs/employee/:employeeId request successful
+[WARN] - May-24-2024 21:40:14 - Validation errors in GET /jobs/employee/:employeeId: [{"undefined":"Invalid employeeId"}]
+[INFO] - May-24-2024 21:51:59 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 21:52:07 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 21:52:07 - GET /applicationByemp/:id request successful
+[INFO] - May-24-2024 21:52:09 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 21:52:09 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 21:52:16 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 21:52:16 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:28:38 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:28:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:28:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:28:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:28:52 - GET /jobs request successful
+[INFO] - May-24-2024 23:28:52 - GET /jobs request successful
+[INFO] - May-24-2024 23:31:19 - GET /jobs request successful
+[INFO] - May-24-2024 23:47:56 - GET /jobs request successful
+[INFO] - May-24-2024 23:47:56 - GET /jobs request successful
+[INFO] - May-24-2024 23:48:03 - GET /jobs request successful
+[INFO] - May-24-2024 23:48:03 - GET /jobs request successful
+[INFO] - May-24-2024 23:48:18 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:48:18 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:48:24 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:48:24 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:48:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:48:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:48:30 - GET /jobs request successful
+[INFO] - May-24-2024 23:48:30 - GET /jobs request successful
+[INFO] - May-24-2024 23:48:34 - GET /jobs request successful
+[INFO] - May-24-2024 23:48:34 - GET /jobs request successful
+[INFO] - May-24-2024 23:48:35 - GET /jobs request successful
+[INFO] - May-24-2024 23:48:35 - GET /jobs request successful
+[INFO] - May-24-2024 23:49:18 - GET /jobs request successful
+[INFO] - May-24-2024 23:49:18 - GET /jobs request successful
+[INFO] - May-24-2024 23:49:50 - GET /jobs request successful
+[INFO] - May-24-2024 23:49:54 - GET /jobs request successful
+[INFO] - May-24-2024 23:49:54 - GET /jobs request successful
+[INFO] - May-24-2024 23:50:32 - GET /jobs request successful
+[INFO] - May-24-2024 23:50:36 - GET /jobs request successful
+[INFO] - May-24-2024 23:50:36 - GET /jobs request successful
+[INFO] - May-24-2024 23:50:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:50:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:50:42 - GET /jobs request successful
+[INFO] - May-24-2024 23:50:42 - GET /jobs request successful
+[INFO] - May-24-2024 23:50:44 - GET /jobs request successful
+[INFO] - May-24-2024 23:50:44 - GET /jobs request successful
+[INFO] - May-24-2024 23:50:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:50:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:50:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:50:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:51:27 - GET /applications request successful
+[INFO] - May-24-2024 23:54:29 - GET /applications request successful
+[INFO] - May-24-2024 23:54:45 - GET /applications request successful
+[INFO] - May-24-2024 23:54:45 - GET /applications request successful
+[INFO] - May-24-2024 23:55:13 - Action successfully executed.
+[INFO] - May-24-2024 23:55:15 - Action successfully executed.
+[INFO] - May-24-2024 23:55:25 - GET /jobs request successful
+[INFO] - May-24-2024 23:55:25 - GET /jobs request successful
+[INFO] - May-24-2024 23:55:28 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:55:28 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:55:30 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:55:30 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:56:20 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:58:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:58:12 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-24-2024 23:58:12 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:00:40 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:00:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:00:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:14:24 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:14:30 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:14:30 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:21:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:36:41 - GET /job/:jobId request successful
+[INFO] - May-25-2024 00:37:01 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:37:01 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:44:18 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:49:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 00:49:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:01:52 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:03:21 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:03:41 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:03:49 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:03:49 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:07:37 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:07:37 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:09:08 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:09:08 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:09:38 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:09:38 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:10:54 - GET /job/:jobId request successful
+[INFO] - May-25-2024 01:11:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:11:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:14:35 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:14:35 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:16:52 - GET /job/:jobId request successful
+[INFO] - May-25-2024 01:19:42 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:21:15 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:21:15 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:22:28 - GET /job/:jobId request successful
+[INFO] - May-25-2024 01:23:21 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:23:21 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:23:54 - GET /job/:jobId request successful
+[INFO] - May-25-2024 01:40:14 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:40:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:40:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:41:14 - GET /jobs request successful
+[INFO] - May-25-2024 01:41:14 - GET /jobs request successful
+[INFO] - May-25-2024 01:44:40 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:44:40 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:48:41 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:48:41 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:48:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:48:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:48:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:48:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:49:00 - GET /jobs request successful
+[INFO] - May-25-2024 01:49:00 - GET /jobs request successful
+[INFO] - May-25-2024 01:49:03 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:49:03 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:50:08 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:50:08 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:50:28 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 01:50:28 - GET /jobs/employee/:employeeId request successful
+[WARN] - May-25-2024 01:52:33 - Validation errors in PUT /updatejobbyemp/:id: [{"undefined":"Invalid job_id"},{"undefined":"Job ID does not exist"}]
+[INFO] - May-25-2024 02:09:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 02:09:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 02:09:29 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 02:09:29 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 02:09:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 02:09:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 03:06:18 - action successfully executed.
+[INFO] - May-25-2024 03:33:21 - GET /job/:jobId request successful
+[INFO] - May-25-2024 03:43:45 - GET /applications request successful
+[INFO] - May-25-2024 03:43:45 - GET /applications request successful
+[INFO] - May-25-2024 04:10:19 - GET /applications request successful
+[INFO] - May-25-2024 04:35:00 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 04:35:00 - GET /jobs/employee/:employeeId request successful
+[WARN] - May-25-2024 04:36:11 - Validation errors in PUT /updatejobbyemp/:id: [{"undefined":"Invalid job_id"},{"undefined":"Job ID does not exist"}]
+[WARN] - May-25-2024 04:36:15 - Validation errors in PUT /updatejobbyemp/:id: [{"undefined":"Invalid job_id"},{"undefined":"Job ID does not exist"}]
+[INFO] - May-25-2024 04:36:29 - PUT /updatejobbyemp/:id request successful
+[INFO] - May-25-2024 08:33:56 - GET /applications request successful
+[INFO] - May-25-2024 08:33:56 - GET /applications request successful
+[INFO] - May-25-2024 08:36:08 - GET /applications request successful
+[INFO] - May-25-2024 08:36:08 - GET /applications request successful
+[INFO] - May-25-2024 08:38:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 08:38:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 08:42:13 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 08:42:13 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 08:42:16 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 08:42:16 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 08:42:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 08:42:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 08:42:25 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 08:42:25 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 09:33:29 - GET /applications request successful
+[INFO] - May-25-2024 09:33:29 - GET /applications request successful
+[INFO] - May-25-2024 09:34:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 09:34:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 09:35:01 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 09:35:01 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 09:35:08 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 09:35:08 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 09:36:20 - GET /applications request successful
+[ERROR] - May-25-2024 09:36:30 - undefined: userId can have only numerical values
+[ERROR] - May-25-2024 09:36:30 - undefined: userId can have only numerical values
+[INFO] - May-25-2024 09:39:35 - GET /applications request successful
+[INFO] - May-25-2024 09:39:48 - GET /applications request successful
+[INFO] - May-25-2024 09:39:48 - GET /applications request successful
+[INFO] - May-25-2024 09:43:38 - GET /applications request successful
+[INFO] - May-25-2024 09:43:38 - GET /applications request successful
+[INFO] - May-25-2024 09:47:35 - GET /applications request successful
+[INFO] - May-25-2024 09:51:51 - GET /applications request successful
+[ERROR] - May-25-2024 09:52:14 - undefined: userId can have only numerical values
+[ERROR] - May-25-2024 09:52:14 - undefined: userId can have only numerical values
+[INFO] - May-25-2024 09:54:48 - GET /applications request successful
+[INFO] - May-25-2024 09:54:59 - GET /applications request successful
+[INFO] - May-25-2024 09:54:59 - GET /applications request successful
+[INFO] - May-25-2024 09:57:59 - GET /applications request successful
+[INFO] - May-25-2024 09:57:59 - GET /applications request successful
+[INFO] - May-25-2024 09:59:49 - GET /applications request successful
+[INFO] - May-25-2024 10:03:05 - GET /applications request successful
+[INFO] - May-25-2024 10:03:14 - GET /applications request successful
+[INFO] - May-25-2024 10:03:14 - GET /applications request successful
+[INFO] - May-25-2024 10:03:30 - GET /applications request successful
+[INFO] - May-25-2024 10:03:30 - GET /applications request successful
+[INFO] - May-25-2024 10:10:34 - GET /applications request successful
+[INFO] - May-25-2024 10:10:34 - GET /applications request successful
+[INFO] - May-25-2024 10:10:52 - Action successfully executed.
+[INFO] - May-25-2024 10:10:55 - Action successfully executed.
+[INFO] - May-25-2024 10:11:26 - GET /applications request successful
+[INFO] - May-25-2024 10:11:28 - GET /applications request successful
+[INFO] - May-25-2024 10:11:50 - Action successfully executed.
+[INFO] - May-25-2024 10:11:54 - Action successfully executed.
+[INFO] - May-25-2024 10:14:12 - GET /applications request successful
+[INFO] - May-25-2024 10:14:45 - GET /applications request successful
+[INFO] - May-25-2024 10:14:45 - GET /applications request successful
+[INFO] - May-25-2024 10:17:09 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 10:17:09 - GET /jobs/employee/:employeeId request successful
+[WARN] - May-25-2024 10:26:35 - Validation errors in PUT /updatejobbyemp/:id: [{"undefined":"Invalid job_id"},{"undefined":"Job ID does not exist"},{"undefined":"Invalid created_by value"}]
+[INFO] - May-25-2024 10:26:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 10:26:46 - GET /jobs/employee/:employeeId request successful
+[WARN] - May-25-2024 10:28:21 - Validation errors in PUT /updatejobbyemp/:id: [{"undefined":"Invalid job_id"},{"undefined":"Job ID does not exist"},{"undefined":"Minimum salary must be a valid decimal number"},{"undefined":"Maximum salary must be a valid decimal number"}]
+[INFO] - May-25-2024 10:29:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 10:29:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 10:29:14 - GET /applications request successful
+[INFO] - May-25-2024 10:29:14 - GET /applications request successful
+[INFO] - May-25-2024 10:29:29 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 10:29:29 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 10:29:51 - GET /applications request successful
+[INFO] - May-25-2024 10:29:51 - GET /applications request successful
+[INFO] - May-25-2024 10:30:37 - PUT /updatejobbyemp/:id request successful
+[INFO] - May-25-2024 10:31:24 - GET /applications request successful
+[INFO] - May-25-2024 10:31:24 - GET /applications request successful
+[WARN] - May-25-2024 10:32:29 - Validation errors in PUT /updatejobbyemp/:id: [{"undefined":"Job status must be 'open' or 'closed'"}]
+[INFO] - May-25-2024 10:36:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 10:36:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 10:36:28 - DELETE /deletejobbyemp/:id request successful
+[INFO] - May-25-2024 10:45:05 - GET /applications request successful
+[INFO] - May-25-2024 10:45:05 - GET /applications request successful
+[INFO] - May-25-2024 10:58:14 - GET /applications request successful
+[INFO] - May-25-2024 10:58:14 - GET /applications request successful
+[INFO] - May-25-2024 10:58:21 - GET /applications request successful
+[INFO] - May-25-2024 10:58:21 - GET /applications request successful
+[INFO] - May-25-2024 11:01:17 - GET /applications request successful
+[INFO] - May-25-2024 11:01:17 - GET /applications request successful
+[INFO] - May-25-2024 11:01:19 - GET /applications request successful
+[INFO] - May-25-2024 11:01:19 - GET /applications request successful
+[INFO] - May-25-2024 11:01:20 - GET /applications request successful
+[INFO] - May-25-2024 11:01:20 - GET /applications request successful
+[INFO] - May-25-2024 11:01:22 - GET /applications request successful
+[INFO] - May-25-2024 11:01:22 - GET /applications request successful
+[INFO] - May-25-2024 11:01:23 - GET /applications request successful
+[INFO] - May-25-2024 11:01:23 - GET /applications request successful
+[INFO] - May-25-2024 11:01:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 11:01:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 11:01:33 - GET /applications request successful
+[INFO] - May-25-2024 11:01:33 - GET /applications request successful
+[INFO] - May-25-2024 11:05:14 - GET /applications request successful
+[INFO] - May-25-2024 11:05:14 - GET /applications request successful
+[INFO] - May-25-2024 13:22:41 - GET /applications request successful
+[INFO] - May-25-2024 13:22:41 - GET /applications request successful
+[INFO] - May-25-2024 13:35:22 - GET /jobs request successful
+[INFO] - May-25-2024 13:35:22 - GET /jobs request successful
+[INFO] - May-25-2024 13:35:42 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 13:35:42 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 13:36:32 - GET /applications request successful
+[INFO] - May-25-2024 13:36:32 - GET /applications request successful
+[INFO] - May-25-2024 13:37:25 - GET /applications request successful
+[INFO] - May-25-2024 13:37:25 - GET /applications request successful
+[INFO] - May-25-2024 13:46:46 - GET /jobs request successful
+[INFO] - May-25-2024 13:46:46 - GET /jobs request successful
+[INFO] - May-25-2024 13:46:47 - GET /applications request successful
+[INFO] - May-25-2024 13:46:47 - GET /applications request successful
+[INFO] - May-25-2024 14:07:57 - GET /applications request successful
+[INFO] - May-25-2024 14:07:57 - GET /applications request successful
+[INFO] - May-25-2024 16:18:58 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 16:18:58 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 16:19:03 - GET /jobs request successful
+[INFO] - May-25-2024 16:19:03 - GET /jobs request successful
+[INFO] - May-25-2024 16:34:33 - GET /applications request successful
+[INFO] - May-25-2024 16:34:33 - GET /applications request successful
+[INFO] - May-25-2024 16:34:41 - GET /jobs request successful
+[INFO] - May-25-2024 16:34:41 - GET /jobs request successful
+[INFO] - May-25-2024 16:34:45 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 16:34:45 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 16:37:12 - GET /applications request successful
+[INFO] - May-25-2024 16:37:12 - GET /applications request successful
+[INFO] - May-25-2024 16:37:35 - Action successfully executed.
+[INFO] - May-25-2024 16:38:19 - GET /jobs request successful
+[INFO] - May-25-2024 16:38:19 - GET /jobs request successful
+[INFO] - May-25-2024 16:38:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 16:38:23 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 16:45:02 - GET /applications request successful
+[INFO] - May-25-2024 16:45:02 - GET /applications request successful
+[INFO] - May-25-2024 16:47:47 - GET /applications request successful
+[INFO] - May-25-2024 16:47:51 - GET /applications request successful
+[INFO] - May-25-2024 16:47:51 - GET /applications request successful
+[INFO] - May-25-2024 16:47:52 - GET /applications request successful
+[INFO] - May-25-2024 16:47:52 - GET /applications request successful
+[INFO] - May-25-2024 16:51:09 - GET /applications request successful
+[INFO] - May-25-2024 16:55:13 - GET /applications request successful
+[INFO] - May-25-2024 16:56:14 - GET /applications request successful
+[INFO] - May-25-2024 18:00:17 - GET /jobs request successful
+[INFO] - May-25-2024 18:00:18 - GET /jobs request successful
+[INFO] - May-25-2024 18:00:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 18:00:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 18:00:31 - GET /applications request successful
+[INFO] - May-25-2024 18:00:31 - GET /applications request successful
+[INFO] - May-25-2024 18:01:32 - GET /applications request successful
+[INFO] - May-25-2024 18:01:32 - GET /applications request successful
+[INFO] - May-25-2024 18:02:24 - GET /applications request successful
+[INFO] - May-25-2024 18:02:24 - GET /applications request successful
+[INFO] - May-25-2024 18:07:24 - GET /applications request successful
+[INFO] - May-25-2024 18:07:24 - GET /applications request successful
+[INFO] - May-25-2024 18:09:17 - GET /applications request successful
+[INFO] - May-25-2024 18:12:22 - GET /applications request successful
+[INFO] - May-25-2024 18:12:22 - GET /applications request successful
+[INFO] - May-25-2024 18:14:02 - GET /applications request successful
+[INFO] - May-25-2024 18:31:11 - GET /applications request successful
+[INFO] - May-25-2024 18:31:11 - GET /applications request successful
+[INFO] - May-25-2024 18:31:21 - GET /applications request successful
+[INFO] - May-25-2024 18:31:21 - GET /applications request successful
+[INFO] - May-25-2024 18:31:31 - GET /applications request successful
+[INFO] - May-25-2024 18:31:31 - GET /applications request successful
+[INFO] - May-25-2024 18:32:34 - GET /applications request successful
+[INFO] - May-25-2024 18:32:34 - GET /applications request successful
+[INFO] - May-25-2024 18:37:44 - GET /applications request successful
+[INFO] - May-25-2024 18:37:44 - GET /applications request successful
+[INFO] - May-25-2024 18:38:34 - GET /applications request successful
+[INFO] - May-25-2024 18:38:34 - GET /applications request successful
+[INFO] - May-25-2024 18:38:48 - GET /applications request successful
+[INFO] - May-25-2024 18:38:48 - GET /applications request successful
+[INFO] - May-25-2024 18:40:14 - GET /applications request successful
+[INFO] - May-25-2024 18:40:14 - GET /applications request successful
+[INFO] - May-25-2024 18:40:45 - GET /applications request successful
+[INFO] - May-25-2024 18:40:45 - GET /applications request successful
+[INFO] - May-25-2024 18:41:31 - GET /applications request successful
+[INFO] - May-25-2024 18:41:31 - GET /applications request successful
+[INFO] - May-25-2024 18:44:55 - GET /applications request successful
+[INFO] - May-25-2024 18:44:55 - GET /applications request successful
+[INFO] - May-25-2024 18:45:13 - GET /applications request successful
+[INFO] - May-25-2024 18:45:13 - GET /applications request successful
+[INFO] - May-25-2024 18:45:57 - GET /applications request successful
+[INFO] - May-25-2024 18:46:10 - GET /applications request successful
+[INFO] - May-25-2024 18:46:10 - GET /applications request successful
+[INFO] - May-25-2024 18:50:31 - GET /applications request successful
+[INFO] - May-25-2024 18:50:31 - GET /applications request successful
+[INFO] - May-25-2024 19:03:17 - GET /applications request successful
+[INFO] - May-25-2024 19:03:17 - GET /applications request successful
+[INFO] - May-25-2024 19:04:29 - GET /applications request successful
+[INFO] - May-25-2024 19:04:29 - GET /applications request successful
+[INFO] - May-25-2024 19:05:03 - GET /applications request successful
+[INFO] - May-25-2024 19:05:03 - GET /applications request successful
+[INFO] - May-25-2024 19:06:22 - GET /applications request successful
+[INFO] - May-25-2024 19:06:22 - GET /applications request successful
+[INFO] - May-25-2024 19:06:54 - GET /applications request successful
+[INFO] - May-25-2024 19:06:54 - GET /applications request successful
+[INFO] - May-25-2024 19:07:36 - GET /applications request successful
+[INFO] - May-25-2024 19:09:28 - GET /applications request successful
+[INFO] - May-25-2024 19:09:35 - GET /jobs request successful
+[INFO] - May-25-2024 19:09:35 - GET /jobs request successful
+[INFO] - May-25-2024 19:09:41 - GET /applications request successful
+[INFO] - May-25-2024 19:09:41 - GET /applications request successful
+[INFO] - May-25-2024 19:09:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 19:09:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 19:09:52 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 19:09:52 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 19:09:54 - GET /applications request successful
+[INFO] - May-25-2024 19:09:54 - GET /applications request successful
+[INFO] - May-25-2024 19:35:11 - GET /applications request successful
+[INFO] - May-25-2024 19:35:11 - GET /applications request successful
+[INFO] - May-25-2024 19:36:48 - GET /applications request successful
+[INFO] - May-25-2024 19:36:48 - GET /applications request successful
+[INFO] - May-25-2024 19:36:56 - GET /applications request successful
+[INFO] - May-25-2024 19:36:56 - GET /applications request successful
+[INFO] - May-25-2024 19:38:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 19:38:10 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 19:38:12 - GET /applications request successful
+[INFO] - May-25-2024 19:38:12 - GET /applications request successful
+[INFO] - May-25-2024 19:38:54 - GET /applications request successful
+[INFO] - May-25-2024 19:38:54 - GET /applications request successful
+[INFO] - May-25-2024 19:39:04 - GET /applications request successful
+[INFO] - May-25-2024 19:39:04 - GET /applications request successful
+[INFO] - May-25-2024 19:43:35 - GET /applications request successful
+[INFO] - May-25-2024 19:43:47 - GET /applications request successful
+[INFO] - May-25-2024 19:43:47 - GET /applications request successful
+[INFO] - May-25-2024 19:47:08 - GET /applications request successful
+[INFO] - May-25-2024 19:47:08 - GET /applications request successful
+[INFO] - May-25-2024 19:50:06 - GET /applications request successful
+[INFO] - May-25-2024 19:50:06 - GET /applications request successful
+[INFO] - May-25-2024 20:03:03 - GET /applications request successful
+[INFO] - May-25-2024 20:03:03 - GET /applications request successful
+[INFO] - May-25-2024 20:18:56 - GET /applications request successful
+[INFO] - May-25-2024 20:18:56 - GET /applications request successful
+[INFO] - May-25-2024 20:28:18 - GET /applications request successful
+[INFO] - May-25-2024 20:28:23 - Action successfully executed.
+[INFO] - May-25-2024 20:28:35 - GET /applications request successful
+[INFO] - May-25-2024 20:28:35 - GET /applications request successful
+[INFO] - May-25-2024 20:43:01 - GET /applications request successful
+[INFO] - May-25-2024 20:51:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 20:51:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 20:51:52 - GET /applications request successful
+[INFO] - May-25-2024 20:51:52 - GET /applications request successful
+[WARN] - May-25-2024 20:51:59 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[INFO] - May-25-2024 20:52:14 - GET /applications request successful
+[INFO] - May-25-2024 20:52:14 - GET /applications request successful
+[WARN] - May-25-2024 20:54:47 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[INFO] - May-25-2024 20:56:09 - GET /applications request successful
+[INFO] - May-25-2024 20:56:09 - GET /applications request successful
+[WARN] - May-25-2024 20:56:16 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[INFO] - May-25-2024 20:56:51 - GET /applications request successful
+[INFO] - May-25-2024 20:56:56 - GET /applications request successful
+[INFO] - May-25-2024 20:56:56 - GET /applications request successful
+[WARN] - May-25-2024 20:56:58 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[INFO] - May-25-2024 20:57:28 - GET /applications request successful
+[INFO] - May-25-2024 20:57:31 - GET /applications request successful
+[INFO] - May-25-2024 20:57:31 - GET /applications request successful
+[INFO] - May-25-2024 21:05:25 - GET /applications request successful
+[INFO] - May-25-2024 21:10:29 - GET /applications request successful
+[INFO] - May-25-2024 21:32:31 - GET /applications request successful
+[INFO] - May-25-2024 21:32:31 - GET /applications request successful
+[INFO] - May-25-2024 21:34:14 - GET /applications request successful
+[INFO] - May-25-2024 21:34:14 - GET /applications request successful
+[INFO] - May-25-2024 21:38:45 - GET /applications request successful
+[INFO] - May-25-2024 21:38:45 - GET /applications request successful
+[INFO] - May-25-2024 21:38:48 - GET /applications request successful
+[INFO] - May-25-2024 21:38:48 - GET /applications request successful
+[INFO] - May-25-2024 21:39:01 - GET /applications request successful
+[INFO] - May-25-2024 21:39:01 - GET /applications request successful
+[INFO] - May-25-2024 21:41:49 - GET /applications request successful
+[INFO] - May-25-2024 21:41:49 - GET /applications request successful
+[INFO] - May-25-2024 21:47:47 - GET /applications request successful
+[INFO] - May-25-2024 21:47:47 - GET /applications request successful
+[INFO] - May-25-2024 21:49:01 - GET /applications request successful
+[INFO] - May-25-2024 21:49:01 - GET /applications request successful
+[INFO] - May-25-2024 22:05:27 - GET /applications request successful
+[INFO] - May-25-2024 22:05:27 - GET /applications request successful
+[INFO] - May-25-2024 22:06:08 - Action successfully executed.
+[INFO] - May-25-2024 22:06:08 - Action successfully executed.
+[INFO] - May-25-2024 22:09:05 - GET /applications request successful
+[INFO] - May-25-2024 22:09:05 - GET /applications request successful
+[INFO] - May-25-2024 22:09:14 - Action successfully executed.
+[INFO] - May-25-2024 22:09:14 - Action successfully executed.
+[INFO] - May-25-2024 22:12:25 - Action successfully executed.
+[INFO] - May-25-2024 22:13:58 - Action successfully executed.
+[INFO] - May-25-2024 22:13:58 - Action successfully executed.
+[INFO] - May-25-2024 22:16:07 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:16:07 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:28:51 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:28:51 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:29:19 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:29:19 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:31:38 - GET /applications request successful
+[INFO] - May-25-2024 22:31:38 - GET /applications request successful
+[INFO] - May-25-2024 22:31:53 - Action successfully executed.
+[INFO] - May-25-2024 22:31:53 - Action successfully executed.
+[INFO] - May-25-2024 22:32:09 - GET /applications request successful
+[INFO] - May-25-2024 22:32:09 - GET /applications request successful
+[INFO] - May-25-2024 22:34:43 - Action successfully executed.
+[INFO] - May-25-2024 22:34:43 - Action successfully executed.
+[INFO] - May-25-2024 22:34:52 - Action successfully executed.
+[INFO] - May-25-2024 22:34:52 - Action successfully executed.
+[INFO] - May-25-2024 22:36:29 - Action successfully executed.
+[INFO] - May-25-2024 22:36:35 - Action successfully executed.
+[INFO] - May-25-2024 22:36:35 - Action successfully executed.
+[INFO] - May-25-2024 22:36:48 - Action successfully executed.
+[INFO] - May-25-2024 22:36:52 - GET /applications request successful
+[INFO] - May-25-2024 22:36:52 - GET /applications request successful
+[INFO] - May-25-2024 22:38:19 - Action successfully executed.
+[INFO] - May-25-2024 22:38:19 - Action successfully executed.
+[INFO] - May-25-2024 22:40:04 - Action successfully executed.
+[INFO] - May-25-2024 22:40:17 - GET /applications request successful
+[INFO] - May-25-2024 22:40:17 - GET /applications request successful
+[INFO] - May-25-2024 22:40:21 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:40:21 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:41:04 - GET /applications request successful
+[INFO] - May-25-2024 22:41:04 - GET /applications request successful
+[INFO] - May-25-2024 22:41:06 - GET /jobs request successful
+[INFO] - May-25-2024 22:41:06 - GET /jobs request successful
+[INFO] - May-25-2024 22:41:13 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:41:13 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 22:41:16 - GET /applications request successful
+[INFO] - May-25-2024 22:41:16 - GET /applications request successful
+[INFO] - May-25-2024 22:41:49 - Action successfully executed.
+[INFO] - May-25-2024 22:41:49 - Action successfully executed.
+[INFO] - May-25-2024 22:43:05 - Action successfully executed.
+[INFO] - May-25-2024 22:43:22 - Action successfully executed.
+[INFO] - May-25-2024 22:43:37 - Action successfully executed.
+[INFO] - May-25-2024 22:46:28 - Action successfully executed.
+[INFO] - May-25-2024 22:46:47 - Action successfully executed.
+[INFO] - May-25-2024 22:46:55 - Action successfully executed.
+[INFO] - May-25-2024 22:47:03 - Action successfully executed.
+[INFO] - May-25-2024 22:49:15 - Action successfully executed.
+[INFO] - May-25-2024 22:49:22 - Action successfully executed.
+[INFO] - May-25-2024 22:49:28 - Action successfully executed.
+[INFO] - May-25-2024 22:49:38 - Action successfully executed.
+[INFO] - May-25-2024 22:49:54 - Action successfully executed.
+[INFO] - May-25-2024 22:50:10 - Action successfully executed.
+[INFO] - May-25-2024 22:50:44 - GET /applications request successful
+[INFO] - May-25-2024 22:50:44 - GET /applications request successful
+[INFO] - May-25-2024 22:50:48 - Action successfully executed.
+[INFO] - May-25-2024 22:50:48 - Action successfully executed.
+[INFO] - May-25-2024 22:50:51 - GET /applications request successful
+[INFO] - May-25-2024 22:50:52 - GET /applications request successful
+[INFO] - May-25-2024 22:50:58 - Action successfully executed.
+[INFO] - May-25-2024 22:50:58 - Action successfully executed.
+[INFO] - May-25-2024 22:52:22 - GET /applications request successful
+[INFO] - May-25-2024 22:52:22 - GET /applications request successful
+[INFO] - May-25-2024 23:01:04 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:01:04 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:05:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:05:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:11:28 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:11:28 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:12:04 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:12:04 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:12:18 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:12:18 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:13:15 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:13:15 - GET /jobs/employee/:employeeId request successful
+[ERROR] - May-25-2024 23:16:02 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-25-2024 23:16:02 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-25-2024 23:16:02 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-25-2024 23:16:03 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-25-2024 23:16:03 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-25-2024 23:16:03 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[INFO] - May-25-2024 23:16:14 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:16:14 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:16:16 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:16:16 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:20:54 - PUT /updatejobbyemp/:id request successful
+[INFO] - May-25-2024 23:25:33 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:25:33 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:25:38 - GET /jobs request successful
+[INFO] - May-25-2024 23:25:38 - GET /jobs request successful
+[INFO] - May-25-2024 23:25:41 - GET /applications request successful
+[INFO] - May-25-2024 23:25:41 - GET /applications request successful
+[INFO] - May-25-2024 23:25:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:25:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:25:45 - GET /applications request successful
+[INFO] - May-25-2024 23:25:46 - GET /applications request successful
+[INFO] - May-25-2024 23:25:51 - Action successfully executed.
+[INFO] - May-25-2024 23:25:51 - Action successfully executed.
+[INFO] - May-25-2024 23:27:15 - Action successfully executed.
+[INFO] - May-25-2024 23:27:15 - Action successfully executed.
+[INFO] - May-25-2024 23:28:08 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:28:08 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-25-2024 23:29:13 - GET /applications request successful
+[INFO] - May-25-2024 23:29:13 - GET /applications request successful
+[INFO] - May-26-2024 00:02:09 - action successfully executed.
+[INFO] - May-26-2024 00:06:46 - action successfully executed.
+[INFO] - May-26-2024 01:47:34 - GET /jobs request successful
+[INFO] - May-26-2024 01:47:34 - GET /jobs request successful
+[INFO] - May-26-2024 01:47:39 - GET /applications request successful
+[INFO] - May-26-2024 01:47:39 - GET /applications request successful
+[INFO] - May-26-2024 01:49:54 - GET /applications request successful
+[INFO] - May-26-2024 01:49:54 - GET /applications request successful
+[INFO] - May-26-2024 01:52:53 - GET /applications request successful
+[INFO] - May-26-2024 01:52:53 - GET /applications request successful
+[WARN] - May-26-2024 01:52:58 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[WARN] - May-26-2024 01:53:20 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[WARN] - May-26-2024 01:53:25 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[INFO] - May-26-2024 01:53:33 - Action successfully executed.
+[INFO] - May-26-2024 01:53:33 - Action successfully executed.
+[INFO] - May-26-2024 01:53:38 - GET /applications request successful
+[INFO] - May-26-2024 01:53:38 - GET /applications request successful
+[WARN] - May-26-2024 01:53:42 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[WARN] - May-26-2024 01:54:15 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[INFO] - May-26-2024 01:59:19 - GET /applications request successful
+[INFO] - May-26-2024 01:59:19 - GET /applications request successful
+[INFO] - May-26-2024 02:00:14 - Action successfully executed.
+[INFO] - May-26-2024 02:00:14 - Action successfully executed.
+[INFO] - May-26-2024 02:00:17 - GET /applications request successful
+[INFO] - May-26-2024 02:00:18 - GET /applications request successful
+[INFO] - May-26-2024 02:00:27 - GET /applications request successful
+[INFO] - May-26-2024 02:00:27 - GET /applications request successful
+[INFO] - May-26-2024 02:00:28 - GET /applications request successful
+[INFO] - May-26-2024 02:00:28 - GET /applications request successful
+[INFO] - May-26-2024 02:01:06 - GET /applications request successful
+[INFO] - May-26-2024 02:01:06 - GET /applications request successful
+[INFO] - May-26-2024 02:01:11 - GET /applications request successful
+[INFO] - May-26-2024 02:01:11 - GET /applications request successful
+[INFO] - May-26-2024 02:01:53 - GET /applications request successful
+[INFO] - May-26-2024 02:01:53 - GET /applications request successful
+[WARN] - May-26-2024 02:02:00 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[INFO] - May-26-2024 02:02:33 - GET /applications request successful
+[INFO] - May-26-2024 02:02:38 - Action successfully executed.
+[INFO] - May-26-2024 02:02:38 - Action successfully executed.
+[INFO] - May-26-2024 02:02:39 - GET /applications request successful
+[INFO] - May-26-2024 02:02:40 - GET /applications request successful
+[INFO] - May-26-2024 02:15:51 - GET /applications request successful
+[INFO] - May-26-2024 02:15:51 - GET /applications request successful
+[ERROR] - May-26-2024 02:16:02 - undefined: userId can have only numerical values
+[ERROR] - May-26-2024 02:16:02 - undefined: userId can have only numerical values
+[INFO] - May-26-2024 02:16:04 - GET /applications request successful
+[INFO] - May-26-2024 02:16:04 - GET /applications request successful
+[INFO] - May-26-2024 02:16:36 - GET /applications request successful
+[ERROR] - May-26-2024 02:16:46 - undefined: userId can have only numerical values
+[ERROR] - May-26-2024 02:16:46 - undefined: userId can have only numerical values
+[INFO] - May-26-2024 02:17:44 - GET /applications request successful
+[INFO] - May-26-2024 02:17:45 - GET /applications request successful
+[INFO] - May-26-2024 02:19:05 - GET /applications request successful
+[WARN] - May-26-2024 02:19:25 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[WARN] - May-26-2024 02:19:46 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[WARN] - May-26-2024 02:20:04 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[INFO] - May-26-2024 02:21:11 - GET /applications request successful
+[INFO] - May-26-2024 02:21:11 - GET /applications request successful
+[WARN] - May-26-2024 02:21:18 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[WARN] - May-26-2024 02:22:09 - undefined: Invalid Application_id, undefined: Application ID does not exist, undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[WARN] - May-26-2024 10:07:44 - undefined: Application ID does not exist
+[WARN] - May-26-2024 10:08:23 - undefined: Application ID does not exist
+[WARN] - May-26-2024 10:09:05 - undefined: Application ID does not exist
+[ERROR] - May-26-2024 10:10:27 - updateApplicationStatus is not defined
+[ERROR] - May-26-2024 10:14:32 - updateApplicationStatus is not defined
+[ERROR] - May-26-2024 10:18:22 - updateApplicationStatus is not defined
+[ERROR] - May-26-2024 10:19:37 - Application not found or no changes detected
+[ERROR] - May-26-2024 10:20:12 - Application not found or no changes detected
+[WARN] - May-26-2024 10:24:16 - undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[ERROR] - May-26-2024 10:24:41 - Application not found or no changes detected
+[INFO] - May-26-2024 10:26:30 - Application status updated successfully.
+[INFO] - May-26-2024 10:30:20 - action successfully executed.
+[WARN] - May-26-2024 10:33:05 - undefined: Invalid status. Must be 'pending', 'accepted', or 'rejected'
+[INFO] - May-26-2024 10:33:48 - Application status updated successfully.
+[INFO] - May-26-2024 10:47:16 - GET /jobs request successful
+[INFO] - May-26-2024 10:47:16 - GET /jobs request successful
+[INFO] - May-26-2024 10:47:17 - GET /applications request successful
+[INFO] - May-26-2024 10:47:17 - GET /applications request successful
+[WARN] - May-26-2024 10:47:22 - undefined: Invalid status. Must be 'Pending', 'Reviewed', 'Rejected'
+[INFO] - May-26-2024 10:53:55 - action successfully executed.
+[INFO] - May-26-2024 10:54:01 - GET /applications request successful
+[INFO] - May-26-2024 10:54:01 - GET /applications request successful
+[INFO] - May-26-2024 10:54:38 - action successfully executed.
+[INFO] - May-26-2024 10:55:11 - GET /applications request successful
+[INFO] - May-26-2024 10:55:11 - GET /applications request successful
+[WARN] - May-26-2024 10:55:17 - undefined: Invalid status. Must be 'Pending', 'Reviewed', 'Rejected'
+[WARN] - May-26-2024 10:57:37 - undefined: Invalid status. Must be 'Pending', 'Reviewed', 'Rejected'
+[WARN] - May-26-2024 10:59:10 - undefined: Invalid status. Must be 'Pending', 'Reviewed', 'Rejected'
+[WARN] - May-26-2024 10:59:16 - undefined: Invalid status. Must be 'Pending', 'Reviewed', 'Rejected'
+[INFO] - May-26-2024 11:02:29 - Application status updated successfully.
+[INFO] - May-26-2024 11:02:39 - Application status updated successfully.
+[INFO] - May-26-2024 11:03:37 - Application status updated successfully.
+[INFO] - May-26-2024 11:09:14 - Application status updated successfully.
+[INFO] - May-26-2024 11:09:34 - Application status updated successfully.
+[INFO] - May-26-2024 11:13:09 - Application status updated successfully.
+[INFO] - May-26-2024 11:13:56 - GET /applications request successful
+[INFO] - May-26-2024 11:13:56 - GET /applications request successful
+[INFO] - May-26-2024 11:28:15 - GET /jobs request successful
+[INFO] - May-26-2024 11:28:15 - GET /jobs request successful
+[INFO] - May-26-2024 11:28:19 - GET /applications request successful
+[INFO] - May-26-2024 11:28:19 - GET /applications request successful
+[INFO] - May-26-2024 11:28:31 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 11:28:31 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 11:41:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 11:41:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 11:45:31 - GET /jobs request successful
+[INFO] - May-26-2024 11:45:31 - GET /jobs request successful
+[WARN] - May-26-2024 12:06:17 - Validation errors in POST /createjobbyemp: [{"undefined":"Invalid created_by value"},{"undefined":"Job status must be 'open' or 'closed'"}]
+[INFO] - May-26-2024 12:12:08 - GET /jobs request successful
+[INFO] - May-26-2024 12:12:08 - GET /jobs request successful
+[INFO] - May-26-2024 12:12:49 - POST /createjobbyemp request successful
+[INFO] - May-26-2024 12:12:49 - GET /jobs request successful
+[INFO] - May-26-2024 12:13:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:13:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:13:04 - GET /jobs request successful
+[INFO] - May-26-2024 12:13:04 - GET /jobs request successful
+[INFO] - May-26-2024 12:13:07 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:13:07 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:13:22 - GET /jobs request successful
+[INFO] - May-26-2024 12:13:22 - GET /jobs request successful
+[INFO] - May-26-2024 12:22:31 - GET /jobs request successful
+[INFO] - May-26-2024 12:22:31 - GET /jobs request successful
+[INFO] - May-26-2024 12:23:24 - POST /createjobbyemp request successful
+[INFO] - May-26-2024 12:23:25 - GET /jobs request successful
+[INFO] - May-26-2024 12:23:26 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:23:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:23:34 - GET /jobs request successful
+[INFO] - May-26-2024 12:23:35 - GET /jobs request successful
+[INFO] - May-26-2024 12:23:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:23:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:23:55 - DELETE /deletejobbyemp/:id request successful
+[INFO] - May-26-2024 12:25:19 - GET /jobs request successful
+[INFO] - May-26-2024 12:25:19 - GET /jobs request successful
+[INFO] - May-26-2024 12:25:23 - GET /jobs request successful
+[INFO] - May-26-2024 12:25:23 - GET /jobs request successful
+[INFO] - May-26-2024 12:38:42 - GET /jobs request successful
+[INFO] - May-26-2024 12:38:42 - GET /jobs request successful
+[INFO] - May-26-2024 12:38:55 - GET /applications request successful
+[INFO] - May-26-2024 12:38:55 - GET /applications request successful
+[INFO] - May-26-2024 12:39:02 - Action successfully executed.
+[INFO] - May-26-2024 12:39:02 - Action successfully executed.
+[INFO] - May-26-2024 12:39:19 - GET /applications request successful
+[INFO] - May-26-2024 12:39:19 - GET /applications request successful
+[INFO] - May-26-2024 12:39:22 - GET /jobs request successful
+[INFO] - May-26-2024 12:39:22 - GET /jobs request successful
+[INFO] - May-26-2024 12:39:28 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:39:28 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:39:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:39:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:41:45 - GET /jobs request successful
+[INFO] - May-26-2024 12:41:45 - GET /jobs request successful
+[INFO] - May-26-2024 12:41:48 - GET /jobs request successful
+[INFO] - May-26-2024 12:41:48 - GET /jobs request successful
+[INFO] - May-26-2024 12:42:56 - GET /jobs request successful
+[INFO] - May-26-2024 12:42:59 - GET /jobs request successful
+[INFO] - May-26-2024 12:42:59 - GET /jobs request successful
+[INFO] - May-26-2024 12:43:04 - GET /jobs request successful
+[INFO] - May-26-2024 12:43:04 - GET /jobs request successful
+[INFO] - May-26-2024 12:43:07 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:43:07 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:47:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:47:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:48:38 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:48:38 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:53:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:53:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:53:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:53:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:55:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:55:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:56:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:56:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:56:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:56:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:58:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 12:58:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 13:02:33 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 13:02:33 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 13:02:43 - GET /applications request successful
+[INFO] - May-26-2024 13:02:43 - GET /applications request successful
+[INFO] - May-26-2024 13:02:45 - GET /jobs request successful
+[INFO] - May-26-2024 13:02:45 - GET /jobs request successful
+[INFO] - May-26-2024 13:02:51 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 13:02:51 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 13:03:38 - GET /jobs request successful
+[INFO] - May-26-2024 13:03:38 - GET /jobs request successful
+[INFO] - May-26-2024 13:03:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 13:03:53 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:03:54 - GET /jobs request successful
+[INFO] - May-26-2024 14:03:54 - GET /jobs request successful
+[INFO] - May-26-2024 14:03:56 - GET /applications request successful
+[INFO] - May-26-2024 14:03:56 - GET /applications request successful
+[INFO] - May-26-2024 14:03:58 - GET /jobs request successful
+[INFO] - May-26-2024 14:03:58 - GET /jobs request successful
+[INFO] - May-26-2024 14:03:59 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:03:59 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:15:25 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:15:57 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:20:47 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:22:54 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:25:17 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:47:47 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:47:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:50:47 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:50:47 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:51:32 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:51:32 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:51:32 - GET /applications request successful
+[INFO] - May-26-2024 14:54:39 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:54:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:54:39 - GET /applications request successful
+[INFO] - May-26-2024 14:54:39 - Action successfully executed.
+[INFO] - May-26-2024 14:55:58 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:55:58 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:55:58 - GET /applications request successful
+[INFO] - May-26-2024 14:55:58 - Action successfully executed.
+[ERROR] - May-26-2024 14:55:58 - Application not found
+[INFO] - May-26-2024 14:57:30 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:57:30 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:57:30 - GET /applications request successful
+[INFO] - May-26-2024 14:57:30 - Action successfully executed.
+[INFO] - May-26-2024 14:57:30 - Application retrieved successfully.
+[INFO] - May-26-2024 14:58:55 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:58:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:58:55 - GET /applications request successful
+[INFO] - May-26-2024 14:58:55 - Action successfully executed.
+[INFO] - May-26-2024 14:58:55 - Application retrieved successfully.
+[ERROR] - May-26-2024 14:58:55 -  [first_name]: first name is required , [last_name]: last name is required , [phone_number]: phone number is required 
+[INFO] - May-26-2024 14:59:36 - GET /job/:jobId request successful
+[INFO] - May-26-2024 14:59:36 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 14:59:36 - GET /applications request successful
+[INFO] - May-26-2024 14:59:36 - Action successfully executed.
+[INFO] - May-26-2024 14:59:36 - Application retrieved successfully.
+[ERROR] - May-26-2024 14:59:36 -  [first_name]: first name is required , [last_name]: last name is required , [phone_number]: phone number is required 
+[INFO] - May-26-2024 15:00:07 - GET /job/:jobId request successful
+[INFO] - May-26-2024 15:00:07 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 15:00:07 - GET /applications request successful
+[INFO] - May-26-2024 15:00:07 - Action successfully executed.
+[INFO] - May-26-2024 15:00:07 - Application retrieved successfully.
+[ERROR] - May-26-2024 15:25:24 - Invalid password
+[INFO] - May-26-2024 15:28:57 - action successfully executed.
+[ERROR] - May-26-2024 15:29:18 -  [password]: Password should be at least 8 characters 
+[INFO] - May-26-2024 15:29:33 - action successfully executed.
+[ERROR] - May-26-2024 15:29:46 -  [password]: Password should be at least 8 characters 
+[INFO] - May-26-2024 15:29:57 - action successfully executed.
+[INFO] - May-26-2024 15:30:21 - action successfully executed.
+[INFO] - May-26-2024 15:34:14 - action successfully executed.
+[INFO] - May-26-2024 15:35:53 - action successfully executed.
+[INFO] - May-26-2024 15:37:00 - action successfully executed.
+[ERROR] - May-26-2024 16:58:02 - Invalid User email
+[ERROR] - May-26-2024 16:58:28 - Invalid User email
+[ERROR] - May-26-2024 17:00:49 - Invalid User email
+[ERROR] - May-26-2024 17:02:17 - Invalid password
+[INFO] - May-26-2024 17:25:29 - action successfully executed.
+[INFO] - May-26-2024 17:26:21 - action successfully executed.
+[INFO] - May-26-2024 17:26:47 - action successfully executed.
+[ERROR] - May-26-2024 17:27:03 -  [userId]: resume not present for this id 
+[ERROR] - May-26-2024 17:27:03 -  [userId]: resume not present for this id 
+[INFO] - May-26-2024 17:32:09 - action successfully executed.
+[ERROR] - May-26-2024 17:32:26 -  [user_id]: resume already present for this id 
+[INFO] - May-26-2024 17:32:46 - action successfully executed.
+[INFO] - May-26-2024 17:32:46 - action successfully executed.
+[INFO] - May-26-2024 17:32:49 - action successfully executed.
+[INFO] - May-26-2024 17:32:49 - action successfully executed.
+[ERROR] - May-26-2024 19:39:39 - Invalid password
+[INFO] - May-26-2024 19:53:37 - GET /jobs request successful
+[INFO] - May-26-2024 19:53:37 - GET /jobs request successful
+[INFO] - May-26-2024 19:53:42 - GET /applications request successful
+[INFO] - May-26-2024 19:53:42 - GET /applications request successful
+[INFO] - May-26-2024 19:53:44 - GET /jobs request successful
+[INFO] - May-26-2024 19:53:44 - GET /jobs request successful
+[INFO] - May-26-2024 19:53:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 19:53:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 19:54:30 - GET /jobs request successful
+[INFO] - May-26-2024 19:54:30 - GET /jobs request successful
+[INFO] - May-26-2024 20:36:47 - GET /jobs request successful
+[INFO] - May-26-2024 20:36:47 - GET /jobs request successful
+[INFO] - May-26-2024 20:36:56 - GET /applications request successful
+[INFO] - May-26-2024 20:36:56 - GET /applications request successful
+[INFO] - May-26-2024 20:37:04 - Action successfully executed.
+[INFO] - May-26-2024 20:37:04 - Action successfully executed.
+[INFO] - May-26-2024 20:37:14 - GET /applications request successful
+[INFO] - May-26-2024 20:37:14 - GET /applications request successful
+[INFO] - May-26-2024 20:37:23 - Application status updated successfully.
+[INFO] - May-26-2024 20:37:33 - Application status updated successfully.
+[INFO] - May-26-2024 20:37:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 20:37:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 20:38:01 - GET /jobs request successful
+[INFO] - May-26-2024 20:38:01 - GET /jobs request successful
+[INFO] - May-26-2024 20:38:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 20:38:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 20:38:35 - GET /jobs request successful
+[INFO] - May-26-2024 20:38:35 - GET /jobs request successful
+[INFO] - May-26-2024 20:38:39 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 20:38:39 - GET /jobs/employee/:employeeId request successful
+[ERROR] - May-26-2024 20:39:35 - Invalid User email
+[INFO] - May-26-2024 21:12:39 - GET /jobs request successful
+[INFO] - May-26-2024 21:12:39 - GET /jobs request successful
+[INFO] - May-26-2024 21:12:41 - GET /applications request successful
+[INFO] - May-26-2024 21:12:41 - GET /applications request successful
+[INFO] - May-26-2024 21:12:43 - GET /jobs request successful
+[INFO] - May-26-2024 21:12:43 - GET /jobs request successful
+[INFO] - May-26-2024 21:12:45 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 21:12:45 - GET /jobs/employee/:employeeId request successful
+[ERROR] - May-26-2024 21:21:15 - Invalid User email
+[ERROR] - May-26-2024 21:21:31 - Invalid password
+[ERROR] - May-26-2024 21:21:32 - Invalid password
+[ERROR] - May-26-2024 21:21:33 - Invalid password
+[ERROR] - May-26-2024 21:22:55 - Invalid password
+[INFO] - May-26-2024 21:23:38 - action successfully executed.
+[INFO] - May-26-2024 21:23:46 - action successfully executed.
+[INFO] - May-26-2024 21:24:17 - action successfully executed.
+[INFO] - May-26-2024 21:24:17 - action successfully executed.
+[INFO] - May-26-2024 21:24:20 - action successfully executed.
+[INFO] - May-26-2024 21:24:20 - action successfully executed.
+[INFO] - May-26-2024 21:24:37 - action successfully executed.
+[INFO] - May-26-2024 21:24:37 - action successfully executed.
+[INFO] - May-26-2024 21:24:53 - action successfully executed.
+[INFO] - May-26-2024 21:24:53 - action successfully executed.
+[INFO] - May-26-2024 21:24:58 - action successfully executed.
+[INFO] - May-26-2024 21:24:58 - action successfully executed.
+[INFO] - May-26-2024 21:25:24 - action successfully executed.
+[INFO] - May-26-2024 21:25:28 - action successfully executed.
+[INFO] - May-26-2024 21:25:28 - action successfully executed.
+[INFO] - May-26-2024 21:47:51 - GET /jobs request successful
+[INFO] - May-26-2024 21:47:51 - GET /jobs request successful
+[INFO] - May-26-2024 21:48:06 - GET /applications request successful
+[INFO] - May-26-2024 21:48:06 - GET /applications request successful
+[INFO] - May-26-2024 21:48:23 - Action successfully executed.
+[INFO] - May-26-2024 21:48:23 - Action successfully executed.
+[INFO] - May-26-2024 21:48:29 - GET /applications request successful
+[INFO] - May-26-2024 21:48:29 - GET /applications request successful
+[INFO] - May-26-2024 21:48:32 - GET /jobs request successful
+[INFO] - May-26-2024 21:48:32 - GET /jobs request successful
+[INFO] - May-26-2024 21:51:32 - POST /createjobbyemp request successful
+[INFO] - May-26-2024 21:51:32 - GET /jobs request successful
+[INFO] - May-26-2024 21:51:37 - GET /jobs request successful
+[INFO] - May-26-2024 21:51:37 - GET /jobs request successful
+[INFO] - May-26-2024 21:51:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 21:51:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-26-2024 21:51:53 - DELETE /deletejobbyemp/:id request successful
+[INFO] - May-26-2024 21:54:03 - action successfully executed.
+[INFO] - May-26-2024 21:55:24 - action successfully executed.
+[INFO] - May-26-2024 21:55:40 - action successfully executed.
+[INFO] - May-26-2024 21:55:40 - action successfully executed.
+[INFO] - May-26-2024 21:55:49 - action successfully executed.
+[INFO] - May-26-2024 21:55:49 - action successfully executed.
+[INFO] - May-26-2024 21:56:03 - action successfully executed.
+[INFO] - May-27-2024 07:53:43 - GET /jobs request successful
+[INFO] - May-27-2024 07:53:43 - GET /jobs request successful
+[INFO] - May-27-2024 07:53:46 - GET /applications request successful
+[INFO] - May-27-2024 07:53:46 - GET /applications request successful
+[INFO] - May-27-2024 07:53:48 - GET /jobs request successful
+[INFO] - May-27-2024 07:53:48 - GET /jobs request successful
+[INFO] - May-27-2024 07:53:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 07:53:50 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 07:54:31 - action successfully executed.
+[INFO] - May-27-2024 07:54:52 - action successfully executed.
+[INFO] - May-27-2024 07:55:18 - action successfully executed.
+[INFO] - May-27-2024 07:55:18 - action successfully executed.
+[INFO] - May-27-2024 07:55:21 - action successfully executed.
+[INFO] - May-27-2024 07:55:21 - action successfully executed.
+[INFO] - May-27-2024 07:55:37 - action successfully executed.
+[INFO] - May-27-2024 07:56:47 - action successfully executed.
+[INFO] - May-27-2024 08:12:52 - action successfully executed.
+[INFO] - May-27-2024 09:14:44 - GET /jobs request successful
+[INFO] - May-27-2024 09:14:44 - GET /jobs request successful
+[INFO] - May-27-2024 09:14:49 - GET /applications request successful
+[INFO] - May-27-2024 09:14:49 - GET /applications request successful
+[INFO] - May-27-2024 09:14:51 - GET /jobs request successful
+[INFO] - May-27-2024 09:14:51 - GET /jobs request successful
+[INFO] - May-27-2024 09:14:56 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:14:56 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:21:35 - GET /jobs request successful
+[INFO] - May-27-2024 09:21:35 - GET /jobs request successful
+[INFO] - May-27-2024 09:21:37 - GET /applications request successful
+[INFO] - May-27-2024 09:21:37 - GET /applications request successful
+[INFO] - May-27-2024 09:21:39 - GET /jobs request successful
+[INFO] - May-27-2024 09:21:39 - GET /jobs request successful
+[INFO] - May-27-2024 09:21:41 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:21:41 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:21:49 - GET /applications request successful
+[INFO] - May-27-2024 09:21:49 - GET /applications request successful
+[INFO] - May-27-2024 09:21:53 - Action successfully executed.
+[INFO] - May-27-2024 09:21:54 - Action successfully executed.
+[INFO] - May-27-2024 09:21:58 - GET /applications request successful
+[INFO] - May-27-2024 09:21:58 - GET /applications request successful
+[INFO] - May-27-2024 09:36:26 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:36:26 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:36:26 - GET /applications request successful
+[INFO] - May-27-2024 09:36:26 - Action successfully executed.
+[INFO] - May-27-2024 09:36:26 - Application retrieved successfully.
+[INFO] - May-27-2024 09:36:26 - action successfully executed.
+[INFO] - May-27-2024 09:36:26 - action successfully executed.
+[INFO] - May-27-2024 09:36:26 - action successfully executed.
+[INFO] - May-27-2024 09:36:26 - action successfully executed.
+[ERROR] - May-27-2024 09:36:26 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:42:02 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:42:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:42:02 - GET /applications request successful
+[INFO] - May-27-2024 09:42:02 - Action successfully executed.
+[INFO] - May-27-2024 09:42:02 - Application retrieved successfully.
+[INFO] - May-27-2024 09:42:02 - action successfully executed.
+[INFO] - May-27-2024 09:42:02 - action successfully executed.
+[INFO] - May-27-2024 09:42:02 - action successfully executed.
+[INFO] - May-27-2024 09:42:02 - action successfully executed.
+[ERROR] - May-27-2024 09:42:02 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:43:31 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:43:31 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:43:31 - GET /applications request successful
+[INFO] - May-27-2024 09:43:31 - Action successfully executed.
+[INFO] - May-27-2024 09:43:31 - Application retrieved successfully.
+[INFO] - May-27-2024 09:43:32 - action successfully executed.
+[INFO] - May-27-2024 09:43:32 - action successfully executed.
+[INFO] - May-27-2024 09:43:32 - action successfully executed.
+[INFO] - May-27-2024 09:43:32 - action successfully executed.
+[ERROR] - May-27-2024 09:43:32 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:45:00 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:45:00 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:45:00 - GET /applications request successful
+[INFO] - May-27-2024 09:45:00 - Action successfully executed.
+[INFO] - May-27-2024 09:45:00 - Application retrieved successfully.
+[INFO] - May-27-2024 09:45:00 - action successfully executed.
+[INFO] - May-27-2024 09:45:00 - action successfully executed.
+[INFO] - May-27-2024 09:45:00 - action successfully executed.
+[INFO] - May-27-2024 09:45:00 - action successfully executed.
+[ERROR] - May-27-2024 09:45:00 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:45:36 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:45:36 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:45:36 - GET /applications request successful
+[INFO] - May-27-2024 09:45:36 - Action successfully executed.
+[INFO] - May-27-2024 09:45:36 - Application retrieved successfully.
+[INFO] - May-27-2024 09:45:36 - action successfully executed.
+[INFO] - May-27-2024 09:45:37 - action successfully executed.
+[INFO] - May-27-2024 09:45:37 - action successfully executed.
+[INFO] - May-27-2024 09:45:37 - action successfully executed.
+[ERROR] - May-27-2024 09:45:37 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:47:09 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:47:09 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:47:09 - GET /applications request successful
+[INFO] - May-27-2024 09:47:09 - Action successfully executed.
+[INFO] - May-27-2024 09:47:09 - Application retrieved successfully.
+[INFO] - May-27-2024 09:47:09 - action successfully executed.
+[INFO] - May-27-2024 09:47:09 - action successfully executed.
+[INFO] - May-27-2024 09:47:09 - action successfully executed.
+[INFO] - May-27-2024 09:47:09 - action successfully executed.
+[INFO] - May-27-2024 09:47:09 - action successfully executed.
+[INFO] - May-27-2024 09:51:01 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:51:01 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:51:01 - GET /applications request successful
+[INFO] - May-27-2024 09:51:01 - Action successfully executed.
+[INFO] - May-27-2024 09:51:01 - Application retrieved successfully.
+[INFO] - May-27-2024 09:51:01 - action successfully executed.
+[INFO] - May-27-2024 09:51:01 - action successfully executed.
+[INFO] - May-27-2024 09:51:02 - action successfully executed.
+[INFO] - May-27-2024 09:51:02 - action successfully executed.
+[INFO] - May-27-2024 09:51:02 - action successfully executed.
+[INFO] - May-27-2024 09:52:05 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:52:05 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:52:05 - GET /applications request successful
+[INFO] - May-27-2024 09:52:05 - Action successfully executed.
+[INFO] - May-27-2024 09:52:05 - Application retrieved successfully.
+[INFO] - May-27-2024 09:52:05 - action successfully executed.
+[INFO] - May-27-2024 09:52:05 - action successfully executed.
+[INFO] - May-27-2024 09:52:05 - action successfully executed.
+[INFO] - May-27-2024 09:52:05 - action successfully executed.
+[ERROR] - May-27-2024 09:52:05 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:52:25 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:52:25 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:52:25 - GET /applications request successful
+[INFO] - May-27-2024 09:52:25 - Action successfully executed.
+[INFO] - May-27-2024 09:52:25 - Application retrieved successfully.
+[INFO] - May-27-2024 09:52:25 - action successfully executed.
+[INFO] - May-27-2024 09:52:25 - action successfully executed.
+[INFO] - May-27-2024 09:52:25 - action successfully executed.
+[INFO] - May-27-2024 09:52:25 - action successfully executed.
+[ERROR] - May-27-2024 09:52:25 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:53:09 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:53:09 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:53:09 - GET /applications request successful
+[INFO] - May-27-2024 09:53:09 - Action successfully executed.
+[INFO] - May-27-2024 09:53:09 - Application retrieved successfully.
+[INFO] - May-27-2024 09:53:09 - action successfully executed.
+[INFO] - May-27-2024 09:53:09 - action successfully executed.
+[INFO] - May-27-2024 09:53:09 - action successfully executed.
+[INFO] - May-27-2024 09:53:09 - action successfully executed.
+[ERROR] - May-27-2024 09:53:09 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:53:51 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:53:51 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:53:51 - GET /applications request successful
+[INFO] - May-27-2024 09:53:51 - Action successfully executed.
+[INFO] - May-27-2024 09:53:51 - Application retrieved successfully.
+[INFO] - May-27-2024 09:53:51 - action successfully executed.
+[INFO] - May-27-2024 09:53:51 - action successfully executed.
+[INFO] - May-27-2024 09:53:51 - action successfully executed.
+[INFO] - May-27-2024 09:53:51 - action successfully executed.
+[ERROR] - May-27-2024 09:53:51 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:55:52 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:55:52 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:55:52 - GET /applications request successful
+[INFO] - May-27-2024 09:55:52 - Action successfully executed.
+[INFO] - May-27-2024 09:55:52 - Application retrieved successfully.
+[INFO] - May-27-2024 09:55:52 - action successfully executed.
+[INFO] - May-27-2024 09:55:52 - action successfully executed.
+[INFO] - May-27-2024 09:55:52 - action successfully executed.
+[INFO] - May-27-2024 09:55:52 - action successfully executed.
+[ERROR] - May-27-2024 09:55:52 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:56:36 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:56:36 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:56:36 - GET /applications request successful
+[INFO] - May-27-2024 09:56:36 - Action successfully executed.
+[INFO] - May-27-2024 09:56:36 - Application retrieved successfully.
+[INFO] - May-27-2024 09:56:36 - action successfully executed.
+[INFO] - May-27-2024 09:56:36 - action successfully executed.
+[INFO] - May-27-2024 09:56:36 - action successfully executed.
+[INFO] - May-27-2024 09:56:36 - action successfully executed.
+[INFO] - May-27-2024 09:56:36 - action successfully executed.
+[INFO] - May-27-2024 09:57:03 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:57:03 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:57:03 - GET /applications request successful
+[INFO] - May-27-2024 09:57:03 - Action successfully executed.
+[INFO] - May-27-2024 09:57:03 - Application retrieved successfully.
+[INFO] - May-27-2024 09:57:03 - action successfully executed.
+[INFO] - May-27-2024 09:57:03 - action successfully executed.
+[INFO] - May-27-2024 09:57:03 - action successfully executed.
+[INFO] - May-27-2024 09:57:03 - action successfully executed.
+[ERROR] - May-27-2024 09:57:03 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:57:28 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:57:28 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:57:28 - GET /applications request successful
+[INFO] - May-27-2024 09:57:28 - Action successfully executed.
+[INFO] - May-27-2024 09:57:28 - Application retrieved successfully.
+[INFO] - May-27-2024 09:57:28 - action successfully executed.
+[INFO] - May-27-2024 09:57:28 - action successfully executed.
+[INFO] - May-27-2024 09:57:28 - action successfully executed.
+[INFO] - May-27-2024 09:57:28 - action successfully executed.
+[ERROR] - May-27-2024 09:57:28 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:57:56 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:57:56 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:57:56 - GET /applications request successful
+[INFO] - May-27-2024 09:57:56 - Action successfully executed.
+[INFO] - May-27-2024 09:57:56 - Application retrieved successfully.
+[INFO] - May-27-2024 09:57:56 - action successfully executed.
+[INFO] - May-27-2024 09:57:56 - action successfully executed.
+[INFO] - May-27-2024 09:57:56 - action successfully executed.
+[INFO] - May-27-2024 09:57:56 - action successfully executed.
+[ERROR] - May-27-2024 09:57:56 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 09:59:46 - GET /job/:jobId request successful
+[INFO] - May-27-2024 09:59:46 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 09:59:46 - GET /applications request successful
+[INFO] - May-27-2024 09:59:46 - Action successfully executed.
+[INFO] - May-27-2024 09:59:46 - Application retrieved successfully.
+[INFO] - May-27-2024 09:59:46 - action successfully executed.
+[INFO] - May-27-2024 09:59:46 - action successfully executed.
+[INFO] - May-27-2024 09:59:46 - action successfully executed.
+[INFO] - May-27-2024 09:59:46 - action successfully executed.
+[ERROR] - May-27-2024 09:59:46 -  [userId]: resume not present for this id 
+[INFO] - May-27-2024 11:17:55 - action successfully executed.
+[INFO] - May-27-2024 11:22:40 - GET /jobs request successful
+[INFO] - May-27-2024 11:22:40 - GET /jobs request successful
+[INFO] - May-27-2024 11:22:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 11:22:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 11:22:47 - GET /applications request successful
+[INFO] - May-27-2024 11:22:47 - GET /applications request successful
+[INFO] - May-27-2024 11:22:50 - GET /jobs request successful
+[INFO] - May-27-2024 11:22:50 - GET /jobs request successful
+[INFO] - May-27-2024 11:22:51 - GET /jobs request successful
+[INFO] - May-27-2024 11:22:51 - GET /jobs request successful
+[INFO] - May-27-2024 11:25:07 - action successfully executed.
+[INFO] - May-27-2024 11:25:19 - action successfully executed.
+[INFO] - May-27-2024 11:33:07 - GET /jobs request successful
+[INFO] - May-27-2024 11:33:07 - GET /jobs request successful
+[INFO] - May-27-2024 11:33:16 - GET /applications request successful
+[INFO] - May-27-2024 11:33:16 - GET /applications request successful
+[INFO] - May-27-2024 11:33:27 - Action successfully executed.
+[INFO] - May-27-2024 11:33:27 - Action successfully executed.
+[INFO] - May-27-2024 11:33:39 - GET /applications request successful
+[INFO] - May-27-2024 11:33:39 - GET /applications request successful
+[INFO] - May-27-2024 11:33:54 - Application status updated successfully.
+[INFO] - May-27-2024 11:33:58 - GET /jobs request successful
+[INFO] - May-27-2024 11:33:58 - GET /jobs request successful
+[INFO] - May-27-2024 11:34:06 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 11:34:06 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 11:34:10 - GET /jobs request successful
+[INFO] - May-27-2024 11:34:10 - GET /jobs request successful
+[INFO] - May-27-2024 11:34:42 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 11:34:42 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:03:40 - GET /jobs request successful
+[INFO] - May-27-2024 12:03:40 - GET /jobs request successful
+[INFO] - May-27-2024 12:04:01 - action successfully executed.
+[INFO] - May-27-2024 12:04:16 - action successfully executed.
+[INFO] - May-27-2024 12:05:05 - GET /jobs request successful
+[INFO] - May-27-2024 12:05:05 - GET /jobs request successful
+[INFO] - May-27-2024 12:05:09 - GET /applications request successful
+[INFO] - May-27-2024 12:05:09 - GET /applications request successful
+[INFO] - May-27-2024 12:05:25 - GET /jobs request successful
+[INFO] - May-27-2024 12:05:25 - GET /jobs request successful
+[INFO] - May-27-2024 12:06:55 - GET /jobs request successful
+[INFO] - May-27-2024 12:06:55 - GET /jobs request successful
+[INFO] - May-27-2024 12:07:00 - GET /jobs request successful
+[INFO] - May-27-2024 12:07:00 - GET /jobs request successful
+[INFO] - May-27-2024 12:07:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:07:02 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:12:03 - GET /jobs request successful
+[INFO] - May-27-2024 12:12:03 - GET /jobs request successful
+[INFO] - May-27-2024 12:14:40 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:14:40 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:25:59 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:44:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:44:27 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:44:29 - GET /jobs request successful
+[INFO] - May-27-2024 12:44:29 - GET /jobs request successful
+[INFO] - May-27-2024 12:48:29 - GET /jobs request successful
+[INFO] - May-27-2024 12:51:36 - GET /jobs request successful
+[INFO] - May-27-2024 12:51:36 - GET /jobs request successful
+[INFO] - May-27-2024 12:55:42 - GET /jobs request successful
+[INFO] - May-27-2024 12:55:42 - GET /jobs request successful
+[INFO] - May-27-2024 12:55:45 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:55:45 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 12:55:57 - GET /jobs request successful
+[INFO] - May-27-2024 12:55:57 - GET /jobs request successful
+[INFO] - May-27-2024 13:00:33 - GET /applications request successful
+[INFO] - May-27-2024 13:00:33 - GET /applications request successful
+[INFO] - May-27-2024 13:00:35 - GET /jobs request successful
+[INFO] - May-27-2024 13:00:35 - GET /jobs request successful
+[INFO] - May-27-2024 13:00:38 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 13:00:38 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 13:00:43 - GET /jobs request successful
+[INFO] - May-27-2024 13:00:43 - GET /jobs request successful
+[INFO] - May-27-2024 13:00:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 13:00:44 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 13:07:48 - action successfully executed.
+[INFO] - May-27-2024 13:08:03 - action successfully executed.
+[INFO] - May-27-2024 13:17:26 - action successfully executed.
+[INFO] - May-27-2024 13:25:23 - action successfully executed.
+[INFO] - May-27-2024 13:25:25 - action successfully executed.
+[INFO] - May-27-2024 13:26:23 - action successfully executed.
+[INFO] - May-27-2024 13:26:30 - action successfully executed.
+[INFO] - May-27-2024 13:26:36 - action successfully executed.
+[INFO] - May-27-2024 13:26:36 - action successfully executed.
+[INFO] - May-27-2024 13:27:05 - action successfully executed.
+[INFO] - May-27-2024 13:27:05 - action successfully executed.
+[INFO] - May-27-2024 13:28:47 - GET /jobs request successful
+[INFO] - May-27-2024 13:28:47 - GET /jobs request successful
+[INFO] - May-27-2024 13:29:03 - GET /applications request successful
+[INFO] - May-27-2024 13:29:04 - GET /applications request successful
+[INFO] - May-27-2024 13:29:20 - GET /jobs request successful
+[INFO] - May-27-2024 13:29:20 - GET /jobs request successful
+[INFO] - May-27-2024 13:29:52 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 13:29:52 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 13:30:42 - DELETE /deletejobbyemp/:id request successful
+[INFO] - May-27-2024 13:57:46 - GET /jobs request successful
+[INFO] - May-27-2024 13:57:46 - GET /jobs request successful
+[INFO] - May-27-2024 13:57:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 13:57:48 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 13:57:49 - GET /applications request successful
+[INFO] - May-27-2024 13:57:49 - GET /applications request successful
+[INFO] - May-27-2024 13:57:50 - GET /jobs request successful
+[INFO] - May-27-2024 13:57:50 - GET /jobs request successful
+[INFO] - May-27-2024 13:58:15 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 13:58:16 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 15:13:38 - GET /applications request successful
+[INFO] - May-27-2024 15:13:38 - GET /applications request successful
+[INFO] - May-27-2024 15:13:40 - GET /jobs request successful
+[INFO] - May-27-2024 15:13:40 - GET /jobs request successful
+[INFO] - May-27-2024 15:14:00 - GET /applications request successful
+[INFO] - May-27-2024 15:14:00 - GET /applications request successful
+[INFO] - May-27-2024 15:14:05 - GET /jobs request successful
+[INFO] - May-27-2024 15:14:05 - GET /jobs request successful
+[INFO] - May-27-2024 15:14:30 - GET /jobs request successful
+[INFO] - May-27-2024 15:14:30 - GET /jobs request successful
+[INFO] - May-27-2024 15:14:31 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 15:14:31 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 15:15:09 - GET /jobs request successful
+[INFO] - May-27-2024 15:15:09 - GET /jobs request successful
+[INFO] - May-27-2024 15:18:51 - GET /jobs request successful
+[INFO] - May-27-2024 15:18:51 - GET /jobs request successful
+[INFO] - May-27-2024 16:01:40 - action successfully executed.
+[INFO] - May-27-2024 16:03:26 - GET /applications request successful
+[INFO] - May-27-2024 16:03:26 - GET /applications request successful
+[INFO] - May-27-2024 16:04:53 - GET /jobs request successful
+[INFO] - May-27-2024 16:04:54 - GET /jobs request successful
+[INFO] - May-27-2024 16:05:41 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 16:05:42 - GET /jobs/employee/:employeeId request successful
+[ERROR] - May-27-2024 16:07:43 - Invalid User email
+[INFO] - May-27-2024 16:07:51 - action successfully executed.
+[INFO] - May-27-2024 16:09:23 - action successfully executed.
+[INFO] - May-27-2024 16:09:23 - action successfully executed.
+[INFO] - May-27-2024 16:09:30 - action successfully executed.
+[INFO] - May-27-2024 16:09:30 - action successfully executed.
+[INFO] - May-27-2024 16:09:56 - action successfully executed.
+[INFO] - May-27-2024 16:09:56 - action successfully executed.
+[INFO] - May-27-2024 16:16:21 - action successfully executed.
+[INFO] - May-27-2024 16:18:13 - action successfully executed.
+[INFO] - May-27-2024 16:19:20 - action successfully executed.
+[INFO] - May-27-2024 16:20:39 - action successfully executed.
+[INFO] - May-27-2024 16:20:39 - action successfully executed.
+[INFO] - May-27-2024 16:22:16 - action successfully executed.
+[INFO] - May-27-2024 16:22:16 - action successfully executed.
+[INFO] - May-27-2024 16:22:17 - action successfully executed.
+[INFO] - May-27-2024 16:22:17 - action successfully executed.
+[INFO] - May-27-2024 16:28:15 - action successfully executed.
+[INFO] - May-27-2024 16:28:40 - action successfully executed.
+[INFO] - May-27-2024 16:30:22 - action successfully executed.
+[INFO] - May-27-2024 16:30:37 - action successfully executed.
+[INFO] - May-27-2024 16:32:46 - action successfully executed.
+[INFO] - May-27-2024 16:32:56 - action successfully executed.
+[INFO] - May-27-2024 16:33:22 - action successfully executed.
+[INFO] - May-27-2024 16:51:05 - action successfully executed.
+[INFO] - May-27-2024 16:51:37 - action successfully executed.
+[INFO] - May-27-2024 16:51:58 - action successfully executed.
+[INFO] - May-27-2024 16:51:58 - action successfully executed.
+[INFO] - May-27-2024 16:52:07 - action successfully executed.
+[INFO] - May-27-2024 16:52:07 - action successfully executed.
+[INFO] - May-27-2024 16:52:15 - action successfully executed.
+[INFO] - May-27-2024 16:52:15 - action successfully executed.
+[INFO] - May-27-2024 16:52:26 - action successfully executed.
+[INFO] - May-27-2024 16:52:26 - action successfully executed.
+[INFO] - May-27-2024 16:52:52 - action successfully executed.
+[INFO] - May-27-2024 16:52:52 - action successfully executed.
+[INFO] - May-27-2024 16:52:54 - action successfully executed.
+[INFO] - May-27-2024 16:52:54 - action successfully executed.
+[INFO] - May-27-2024 16:53:31 - GET /jobs request successful
+[INFO] - May-27-2024 16:53:31 - GET /jobs request successful
+[INFO] - May-27-2024 16:53:42 - GET /applications request successful
+[INFO] - May-27-2024 16:53:42 - GET /applications request successful
+[INFO] - May-27-2024 16:53:52 - Application status updated successfully.
+[INFO] - May-27-2024 16:54:05 - Action successfully executed.
+[INFO] - May-27-2024 16:54:05 - Action successfully executed.
+[INFO] - May-27-2024 16:54:11 - GET /applications request successful
+[INFO] - May-27-2024 16:54:11 - GET /applications request successful
+[INFO] - May-27-2024 16:54:18 - Action successfully executed.
+[INFO] - May-27-2024 16:54:18 - Action successfully executed.
+[INFO] - May-27-2024 16:54:53 - GET /applications request successful
+[INFO] - May-27-2024 16:54:53 - GET /applications request successful
+[INFO] - May-27-2024 16:54:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 16:54:55 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 16:55:25 - DELETE /deletejobbyemp/:id request successful
+[INFO] - May-27-2024 17:16:39 - action successfully executed.
+[INFO] - May-27-2024 17:16:45 - action successfully executed.
+[INFO] - May-27-2024 17:16:45 - action successfully executed.
+[INFO] - May-27-2024 17:16:59 - action successfully executed.
+[INFO] - May-27-2024 17:17:27 - action successfully executed.
+[INFO] - May-27-2024 17:17:28 - action successfully executed.
+[INFO] - May-27-2024 17:17:36 - action successfully executed.
+[INFO] - May-27-2024 17:17:36 - action successfully executed.
+[INFO] - May-27-2024 17:17:40 - action successfully executed.
+[INFO] - May-27-2024 17:17:40 - action successfully executed.
+[INFO] - May-27-2024 17:17:49 - action successfully executed.
+[INFO] - May-27-2024 17:17:49 - action successfully executed.
+[INFO] - May-27-2024 17:18:27 - action successfully executed.
+[INFO] - May-27-2024 17:18:27 - action successfully executed.
+[INFO] - May-27-2024 17:18:51 - GET /jobs request successful
+[INFO] - May-27-2024 17:18:51 - GET /jobs request successful
+[INFO] - May-27-2024 17:18:59 - GET /applications request successful
+[INFO] - May-27-2024 17:18:59 - GET /applications request successful
+[INFO] - May-27-2024 17:19:07 - GET /jobs request successful
+[INFO] - May-27-2024 17:19:07 - GET /jobs request successful
+[INFO] - May-27-2024 17:19:14 - GET /jobs/employee/:employeeId request successful
+[INFO] - May-27-2024 17:19:14 - GET /jobs/employee/:employeeId request successful
+[ERROR] - May-27-2024 17:19:37 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[ERROR] - May-27-2024 17:19:39 - Error in PUT /updatejobbyemp/:id: Job listing not found or no changes detected
+[INFO] - May-27-2024 17:19:47 - DELETE /deletejobbyemp/:id request successful

@@ -1,0 +1,49 @@
+/* adminRegisterStyles.css */
+
+.formrr {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #5a91de;
+    border: 1px solid #b04848;
+    border-radius: 5px;
+}
+
+.h2rr {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.labelrr {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.inputrr {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #5a91de;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.spanrr {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.buttonrr {
+    width: 100%;
+    padding: 10px;
+    background-color: #1d80ea;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.buttonrr:hover {
+    background-color: #f4f6f8;
+}

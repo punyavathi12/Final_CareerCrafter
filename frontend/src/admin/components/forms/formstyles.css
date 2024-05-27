@@ -1,0 +1,106 @@
+body-rd {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container-rd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    background-color: #cb7979;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(157, 54, 54, 0.1);
+    margin: 20px;
+}
+
+.form-wrapper-rd {
+    width: 100%;
+    max-width: 800px; /* Increased the max-width to make the form wider */
+}
+
+h2-rd {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 24px;
+    padding: 10px;
+    background-color: #fff;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+form-rd {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group-rd {
+    margin-bottom: 15px;
+}
+
+.form-group-rd label {
+    display: block;
+    margin-bottom: 5px;
+    color: #120808;
+    font-weight: bold;
+}
+
+.form-group-rd input,
+.form-group-rd textarea {
+    width: 100%; /* Ensure inputs and textareas take full width of the parent */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.form-group-rd textarea {
+    resize: vertical;
+}
+
+.error-rd {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.message-rd {
+    text-align: center;
+    margin-top: 20px;
+    color: green;
+}
+
+button[type="submit"]-rd {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    align-self: center;
+}
+
+button[type="submit"]:hover-rd {
+    background-color: #0056b3;
+}
+
+.button-rd {
+    padding: 10px 20px;
+    background-color: #2e7fc7;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+    align-self: center;
+}
+
+.button:hover-rd {
+    background-color: #1a73b8;
+}
